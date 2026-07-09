@@ -54,9 +54,12 @@ pip install -r requirements.txt
 ```
 
 ### 4. Adicionar o dataset
-Baixe o `df_arabica_clean.csv` (fonte: [Coffee Quality Data CQI - Kaggle](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi)) e coloque em:
+
+Houve mudança no dataset pois o antigo havia apenas 206 linhas, apesar de estar melhor estruturado. Ele pode ser encontrado no [Kagle](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi), sendo a tabela `df_arabica_clean.csv` que se encontra no arquivo ```data/older_data```.
+
+Baixe o `arabica_coffee_full_table.csv` (fonte: [Coffee Quality Data CQI - Kaggle](https://www.kaggle.com/datasets/erwinhmtang/coffee-quality-institute-reviews-may2023?select=arabica_coffee_full_table.csv)) e coloque em:
 ```
-data/raw/df_arabica_clean.csv
+data/raw/arabica_coffee_full_table.csv
 ```
 
 ## ▶️ Executando o projeto
