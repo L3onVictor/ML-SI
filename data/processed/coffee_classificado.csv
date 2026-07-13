@@ -1,229 +1,229 @@
 Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Processing_Method,Country_of_Origin,Color,Classe
-0.1169999999999999,0,1,3.0,1600.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,2,1.0,1600.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,2,1.0,1550.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,1,0.0,1600.0,Typica,Washed / Wet,Guatemala,Green,Gourmet
-0.092,0,5,1.0,1350.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,2,2.0,1550.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.113,0,4,0.0,1432.0,Catuai,Washed / Wet,Guatemala,Green,Gourmet
-0.106,0,1,0.0,1600.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.099,0,1,1.0,1600.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.107,0,3,1.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.113,2,3,0.0,1250.0,Unknown,Pulped natural / honey,Brazil,Green,Gourmet
-0.1159999999999999,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,Green,Superior
-0.114,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.096,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Superior
-0.096,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Superior
-0.1,0,4,0.0,1280.0,Catuai,Washed / Wet,Honduras,Green,Superior
-0.113,0,5,1.0,1400.0,Catuai,Washed / Wet,Honduras,Green,Superior
-0.1119999999999999,0,5,1.0,1400.0,SHG,Washed / Wet,Honduras,Green,Superior
-0.102,0,2,0.0,1368.0,Catuai,Washed / Wet,Honduras,Green,Gourmet
-0.098,0,3,0.0,1368.0,Catuai,Washed / Wet,Honduras,Green,Gourmet
-0.121,2,5,5.0,1700.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.122,0,2,0.0,1700.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Superior
-0.131,0,1,0.0,1650.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Superior
-0.119,0,0,0.0,1600.0,Unknown,Washed / Wet,Colombia,Green,Gourmet
-0.1119999999999999,0,4,0.0,1646.0,Catimor,Pulped natural / honey,Vietnam,Green,Tradicional
-0.124,1,9,0.0,1311.0,Unknown,Unknown,Colombia,Greenish,Superior
-0.105,0,7,8.0,1400.0,Bourbon,Natural / Dry,El Salvador,Bluish-Green,Tradicional
-0.115,0,7,10.0,1300.0,Pacas,Natural / Dry,El Salvador,Bluish-Green,Tradicional
-0.118,0,0,0.0,1200.0,Bourbon,Washed / Wet,El Salvador,Bluish-Green,Tradicional
-0.12,0,10,7.0,1200.0,Bourbon,Washed / Wet,El Salvador,Green,Tradicional
-0.113,0,2,0.0,1200.0,Bourbon,Washed / Wet,El Salvador,Green,Superior
-0.121,0,0,0.0,1500.0,Bourbon,Washed / Wet,Outros,Blue-Green,Gourmet
-0.125,0,0,0.0,1350.0,Unknown,Pulped natural / honey,Indonesia,Bluish-Green,Tradicional
-0.133,0,3,2.0,1550.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.119,0,2,3.0,1200.0,Catimor,Unknown,Indonesia,Bluish-Green,Gourmet
-0.103,0,0,0.0,1300.0,Gesha,Natural / Dry,Taiwan,yellow-green,Gourmet
-0.1,0,0,0.0,1250.0,SL34,Washed / Wet,Taiwan,Bluish-Green,Superior
+0.1169999999999999,0,1,3.0,1600.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.1,0,2,1.0,1600.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,2,1.0,1550.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.1,0,1,0.0,1600.0,Typica,Washed / Wet,Guatemala,green,Gourmet
+0.092,0,5,1.0,1350.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,2,2.0,1550.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.113,0,4,0.0,1432.0,Catuai,Washed / Wet,Guatemala,green,Gourmet
+0.106,0,1,0.0,1600.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.099,0,1,1.0,1600.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.107,0,3,1.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.113,2,3,0.0,1250.0,Unknown,Pulped natural / honey,Brazil,green,Gourmet
+0.1159999999999999,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.114,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.096,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.096,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.1,0,4,0.0,1280.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.113,0,5,1.0,1400.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.1119999999999999,0,5,1.0,1400.0,Outros,Washed / Wet,Honduras,green,Superior
+0.102,0,2,0.0,1368.0,Catuai,Washed / Wet,Honduras,green,Gourmet
+0.098,0,3,0.0,1368.0,Catuai,Washed / Wet,Honduras,green,Gourmet
+0.121,2,5,5.0,1700.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.122,0,2,0.0,1700.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
+0.131,0,1,0.0,1650.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
+0.119,0,0,0.0,1600.0,Unknown,Washed / Wet,Colombia,green,Gourmet
+0.1119999999999999,0,4,0.0,1646.0,Catimor,Pulped natural / honey,Outros,green,Tradicional
+0.124,1,9,0.0,1311.0,Unknown,Unknown,Colombia,greenish,Superior
+0.105,0,7,8.0,1400.0,Bourbon,Natural / Dry,El Salvador,bluish green,Tradicional
+0.115,0,7,10.0,1300.0,Outros,Natural / Dry,El Salvador,bluish green,Tradicional
+0.118,0,0,0.0,1200.0,Bourbon,Washed / Wet,El Salvador,bluish green,Superior
+0.12,0,10,7.0,1200.0,Bourbon,Washed / Wet,El Salvador,green,Superior
+0.113,0,2,0.0,1200.0,Bourbon,Washed / Wet,El Salvador,green,Superior
+0.121,0,0,0.0,1500.0,Bourbon,Washed / Wet,Outros,blue green,Gourmet
+0.125,0,0,0.0,1350.0,Unknown,Pulped natural / honey,Indonesia,bluish green,Superior
+0.133,0,3,2.0,1550.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.119,0,2,3.0,1200.0,Catimor,Unknown,Indonesia,bluish green,Gourmet
+0.103,0,0,0.0,1300.0,Gesha,Natural / Dry,Taiwan,yellow green,Gourmet
+0.1,0,0,0.0,1250.0,SL34,Washed / Wet,Taiwan,bluish green,Superior
 0.11,0,1,0.0,1200.0,Gesha,Natural / Dry,Taiwan,brownish,Gourmet
-0.103,0,0,0.0,850.0,Gesha,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.109,0,9,0.0,1943.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Green,Gourmet
-0.102,0,0,0.0,1200.0,Gesha,Unknown,Taiwan,yellow-green,Superior
-0.103,0,5,1.0,1200.0,Catuai,Washed / Wet,Outros,Bluish-Green,Gourmet
-0.105,1,8,2.0,1500.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.0969999999999999,0,4,2.0,1200.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.1,0,2,1.0,1850.0,Caturra,Washed / Wet,Costa Rica,Green,Gourmet
-0.0,0,3,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Green,Superior
-0.095,0,2,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Green,Superior
-0.1119999999999999,0,0,0.0,1654.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Gourmet
-0.1159999999999999,0,2,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Gourmet
-0.11,0,0,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Gourmet
-0.104,0,8,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Superior
-0.098,0,3,0.0,1675.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Gourmet
-0.1,0,0,0.0,1585.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Greenish,Gourmet
-0.092,0,1,0.0,1750.0,SL28,Washed / Wet,Kenya,Greenish,Gourmet
-0.12,0,12,0.0,2000.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Green,Superior
-0.0,0,2,0.0,1100.0,Other,Washed / Wet,China,Green,Gourmet
+0.103,0,0,0.0,850.0,Gesha,Washed / Wet,Taiwan,bluish green,Gourmet
+0.109,0,9,0.0,1943.0,Outros,Washed / Wet,Ethiopia,green,Gourmet
+0.102,0,0,0.0,1200.0,Gesha,Unknown,Taiwan,yellow green,Superior
+0.103,0,5,1.0,1200.0,Catuai,Washed / Wet,Outros,bluish green,Gourmet
+0.105,1,8,2.0,1500.0,Caturra,Washed / Wet,Costa Rica,green,Superior
+0.0969999999999999,0,4,2.0,1200.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.1,0,2,1.0,1850.0,Caturra,Washed / Wet,Costa Rica,green,Gourmet
+0.0,0,3,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,green,Superior
+0.095,0,2,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,green,Superior
+0.1119999999999999,0,0,0.0,1654.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Gourmet
+0.1159999999999999,0,2,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Gourmet
+0.11,0,0,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Gourmet
+0.104,0,8,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Superior
+0.098,0,3,0.0,1675.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Gourmet
+0.1,0,0,0.0,1585.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",greenish,Gourmet
+0.092,0,1,0.0,1750.0,SL28,Washed / Wet,Kenya,greenish,Gourmet
+0.12,0,12,0.0,2000.0,Outros,Washed / Wet,Ethiopia,green,Superior
+0.0,0,2,0.0,1100.0,Other,Washed / Wet,China,green,Gourmet
 0.0,0,4,0.0,1200.0,Typica,Natural / Dry,Outros,Unknown,Tradicional
-0.14,0,3,0.0,1400.0,Other,Washed / Wet,Outros,Green,Tradicional
-0.0,0,0,0.0,1707.0,Pache Comun,Natural / Dry,Outros,Unknown,Tradicional
-0.0,0,1,0.0,1600.0,Other,Washed / Wet,Mexico,Green,Superior
-0.11,0,1,0.0,1860.0,SL28,Washed / Wet,Kenya,Green,Gourmet
-0.1,1,1,0.0,1400.0,Other,Washed / Wet,Mexico,Unknown,Tradicional
+0.14,0,3,0.0,1400.0,Other,Washed / Wet,Outros,green,Tradicional
+0.0,0,0,0.0,1707.0,Outros,Natural / Dry,Outros,Unknown,Tradicional
+0.0,0,1,0.0,1600.0,Other,Washed / Wet,Mexico,green,Superior
+0.11,0,1,0.0,1860.0,SL28,Washed / Wet,Kenya,green,Gourmet
+0.1,1,1,0.0,1400.0,Other,Washed / Wet,Mexico,Unknown,Superior
 0.11,0,0,0.0,1350.0,Bourbon,Semi-washed / Semi-pulped,El Salvador,Unknown,Gourmet
-0.09,4,40,0.0,1550.0,Other,Natural / Dry,Ethiopia,Green,Gourmet
-0.0,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
+0.09,4,40,0.0,1550.0,Other,Natural / Dry,Ethiopia,green,Gourmet
+0.0,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
 0.0,1,3,0.0,1250.0,SL28,Washed / Wet,Outros,Unknown,Tradicional
-0.12,1,1,0.0,1200.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.1,0,10,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,Bluish-Green,Gourmet
-0.12,0,2,0.0,1575.0,Bourbon,Semi-washed / Semi-pulped,Costa Rica,Bluish-Green,Gourmet
-0.0,0,1,0.0,1450.0,Bourbon,Washed / Wet,El Salvador,Green,Tradicional
+0.12,1,1,0.0,1200.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.1,0,10,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,bluish green,Gourmet
+0.12,0,2,0.0,1575.0,Bourbon,Semi-washed / Semi-pulped,Costa Rica,bluish green,Gourmet
+0.0,0,1,0.0,1450.0,Bourbon,Washed / Wet,El Salvador,green,Tradicional
 0.08,0,2,0.0,1311.0,Unknown,Unknown,Nicaragua,Unknown,Gourmet
-0.0,0,0,0.0,1400.0,Pacamara,Unknown,Mexico,Unknown,Gourmet
-0.0,0,1,0.0,1400.0,Blue Mountain,Unknown,Mexico,Unknown,Superior
-0.0,2,5,0.0,1311.0,Other,Washed / Wet,El Salvador,Green,Tradicional
+0.0,0,0,0.0,1400.0,Outros,Unknown,Mexico,Unknown,Gourmet
+0.0,0,1,0.0,1400.0,Outros,Unknown,Mexico,Unknown,Superior
+0.0,2,5,0.0,1311.0,Other,Washed / Wet,El Salvador,green,Superior
 0.0,0,17,0.0,1311.0,Other,Washed / Wet,El Salvador,Unknown,Superior
 0.01,1,14,0.0,1600.0,Unknown,Unknown,Guatemala,Unknown,Superior
-0.0,0,4,0.0,1311.0,Unknown,Natural / Dry,Guatemala,Blue-Green,Superior
+0.0,0,4,0.0,1311.0,Unknown,Natural / Dry,Guatemala,blue green,Superior
 0.09,0,2,0.0,1311.0,Unknown,Washed / Wet,Honduras,Unknown,Superior
 0.1,5,20,0.0,1311.0,Catuai,Washed / Wet,Costa Rica,Unknown,Tradicional
-0.12,0,6,1.0,1500.0,Other,Washed / Wet,Honduras,Green,Superior
-0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,4,0.0,1311.0,Unknown,Washed / Wet,Guatemala,Green,Superior
-0.0,1,10,0.0,1311.0,Unknown,Washed / Wet,Costa Rica,Green,Gourmet
-0.13,1,2,0.0,200.0,Unknown,Washed / Wet,Outros,Bluish-Green,Tradicional
-0.1,2,7,0.0,1700.0,Unknown,Natural / Dry,Ethiopia,Green,Gourmet
+0.12,0,6,1.0,1500.0,Other,Washed / Wet,Honduras,green,Superior
+0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Honduras,green,Tradicional
+0.1,0,4,0.0,1311.0,Unknown,Washed / Wet,Guatemala,green,Superior
+0.0,1,10,0.0,1311.0,Unknown,Washed / Wet,Costa Rica,green,Gourmet
+0.13,1,2,0.0,200.0,Unknown,Washed / Wet,Outros,bluish green,Tradicional
+0.1,2,7,0.0,1700.0,Unknown,Natural / Dry,Ethiopia,green,Gourmet
 0.0,0,5,0.0,1880.0,Bourbon,Washed / Wet,Outros,Unknown,Superior
 0.09,0,15,0.0,1800.0,Other,Natural / Dry,Ethiopia,Unknown,Gourmet
 0.12,4,26,0.0,1067.0,Other,Natural / Dry,Indonesia,Unknown,Tradicional
 0.17,1,19,0.0,1326.0,Unknown,Unknown,Guatemala,Unknown,Tradicional
 0.04,0,1,0.0,1326.0,Unknown,Unknown,Guatemala,Unknown,Gourmet
-0.1,1,3,0.0,1050.0,Caturra,Washed / Wet,Nicaragua,Green,Tradicional
-0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Guatemala,Bluish-Green,Gourmet
-0.12,3,4,0.0,1311.0,Unknown,Washed / Wet,Nicaragua,Green,Tradicional
+0.1,1,3,0.0,1050.0,Caturra,Washed / Wet,Nicaragua,green,Tradicional
+0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Guatemala,bluish green,Gourmet
+0.12,3,4,0.0,1311.0,Unknown,Washed / Wet,Nicaragua,green,Tradicional
 0.02,0,1,0.0,1311.0,Unknown,Unknown,Guatemala,Unknown,Superior
-0.11,0,0,0.0,1311.0,Sumatra,Semi-washed / Semi-pulped,Indonesia,Bluish-Green,Tradicional
-0.12,1,2,0.0,1311.0,Unknown,Washed / Wet,Peru,Green,Tradicional
-0.0,0,3,0.0,1311.0,Unknown,Washed / Wet,Peru,Green,Superior
-0.1,1,5,0.0,1311.0,Unknown,Washed / Wet,Peru,Bluish-Green,Tradicional
-0.0,0,11,0.0,1311.0,Unknown,Washed / Wet,Mexico,Green,Superior
-0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Mexico,Green,Tradicional
-0.1,4,6,0.0,1311.0,Unknown,Washed / Wet,Peru,Green,Gourmet
-0.0,0,4,0.0,1311.0,Unknown,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,5,0.0,1311.0,Unknown,Washed / Wet,Peru,Green,Superior
-0.09,0,0,0.0,800.0,Unknown,Natural / Dry,Outros,Bluish-Green,Superior
-0.11,0,0,0.0,1038.5,Mundo Novo,Natural / Dry,Brazil,Blue-Green,Tradicional
-0.11,0,3,0.0,1038.5,Mundo Novo,Natural / Dry,Brazil,Green,Gourmet
+0.11,0,0,0.0,1311.0,Outros,Semi-washed / Semi-pulped,Indonesia,bluish green,Tradicional
+0.12,1,2,0.0,1311.0,Unknown,Washed / Wet,Outros,green,Tradicional
+0.0,0,3,0.0,1311.0,Unknown,Washed / Wet,Outros,green,Superior
+0.1,1,5,0.0,1311.0,Unknown,Washed / Wet,Outros,bluish green,Tradicional
+0.0,0,11,0.0,1311.0,Unknown,Washed / Wet,Mexico,green,Superior
+0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Mexico,green,Superior
+0.1,4,6,0.0,1311.0,Unknown,Washed / Wet,Outros,green,Gourmet
+0.0,0,4,0.0,1311.0,Unknown,Washed / Wet,Mexico,green,Tradicional
+0.12,0,5,0.0,1311.0,Unknown,Washed / Wet,Outros,green,Superior
+0.09,0,0,0.0,800.0,Unknown,Natural / Dry,Outros,bluish green,Superior
+0.11,0,0,0.0,1038.5,Mundo Novo,Natural / Dry,Brazil,blue green,Superior
+0.11,0,3,0.0,1038.5,Mundo Novo,Natural / Dry,Brazil,green,Gourmet
 0.11,0,4,0.0,1625.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
-0.0,1,4,0.0,1900.0,Catuai,Pulped natural / honey,Costa Rica,Green,Tradicional
-0.12,1,1,1.0,1900.0,Catuai,Washed / Wet,Costa Rica,Green,Gourmet
-0.11,0,0,0.0,1900.0,Catuai,Pulped natural / honey,Costa Rica,Green,Superior
-0.12,0,2,0.0,1000.0,Unknown,Washed / Wet,Outros,Green,Tradicional
-0.11,1,26,0.0,914.0,Other,Natural / Dry,Outros,Green,Tradicional
-0.0,3,12,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.0,0,10,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.0,0,10,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,Blue-Green,Gourmet
-0.0,1,1,0.0,1550.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.0,1,4,0.0,1900.0,Catuai,Pulped natural / honey,Costa Rica,green,Tradicional
+0.12,1,1,1.0,1900.0,Catuai,Washed / Wet,Costa Rica,green,Gourmet
+0.11,0,0,0.0,1900.0,Catuai,Pulped natural / honey,Costa Rica,green,Superior
+0.12,0,2,0.0,1000.0,Unknown,Washed / Wet,Outros,green,Tradicional
+0.11,1,26,0.0,914.0,Other,Natural / Dry,Outros,green,Tradicional
+0.0,3,12,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.0,0,10,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.0,0,10,0.0,1402.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,blue green,Gourmet
+0.0,1,1,0.0,1550.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.0,1,1,0.0,1200.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.0,0,0,0.0,1600.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,0,0.0,1550.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,1,0.0,1000.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.0,0,2,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,1,3,0.0,1311.0,Unknown,Unknown,Colombia,Green,Tradicional
+0.0,0,0,0.0,1600.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.11,0,0,0.0,1550.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,1,0.0,1000.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.0,0,2,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,1,3,0.0,1311.0,Unknown,Unknown,Colombia,green,Tradicional
 0.08,1,13,2.0,1311.0,Unknown,Washed / Wet,Costa Rica,Unknown,Gourmet
-0.12,2,8,0.0,1300.0,Bourbon,Washed / Wet,Mexico,Bluish-Green,Superior
-0.0,7,9,0.0,1200.0,Caturra,Washed / Wet,Peru,Green,Tradicional
-0.11,1,0,0.0,1311.0,Unknown,Washed / Wet,Colombia,Green,Tradicional
+0.12,2,8,0.0,1300.0,Bourbon,Washed / Wet,Mexico,bluish green,Superior
+0.0,7,9,0.0,1200.0,Caturra,Washed / Wet,Outros,green,Tradicional
+0.11,1,0,0.0,1311.0,Unknown,Washed / Wet,Colombia,green,Superior
 0.11,0,2,0.0,1311.0,Unknown,Washed / Wet,Brazil,Unknown,Tradicional
-0.1,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,Bluish-Green,Tradicional
-0.11,10,3,0.0,1311.0,Unknown,Washed / Wet,Colombia,Green,Superior
-0.13,0,0,0.0,853.0,Other,Washed / Wet,Outros,Green,Tradicional
-0.0,0,0,0.0,853.0,Other,Washed / Wet,Outros,Bluish-Green,Superior
-0.12,0,1,0.0,853.0,Other,Washed / Wet,Outros,Green,Superior
-0.0,0,0,0.0,853.0,Other,Washed / Wet,Outros,Green,Tradicional
-0.11,0,0,0.0,1100.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.09,2,10,6.0,1100.0,Catuai,Washed / Wet,Brazil,Green,Tradicional
-0.0,0,5,0.0,1850.0,Typica,Washed / Wet,China,Green,Tradicional
-0.17,0,14,0.0,1700.0,Other,Washed / Wet,China,Green,Tradicional
+0.1,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,bluish green,Tradicional
+0.11,10,3,0.0,1311.0,Unknown,Washed / Wet,Colombia,green,Superior
+0.13,0,0,0.0,853.0,Other,Washed / Wet,Outros,green,Tradicional
+0.0,0,0,0.0,853.0,Other,Washed / Wet,Outros,bluish green,Superior
+0.12,0,1,0.0,853.0,Other,Washed / Wet,Outros,green,Superior
+0.0,0,0,0.0,853.0,Other,Washed / Wet,Outros,green,Tradicional
+0.11,0,0,0.0,1100.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.09,2,10,6.0,1100.0,Catuai,Washed / Wet,Brazil,green,Superior
+0.0,0,5,0.0,1850.0,Typica,Washed / Wet,China,green,Tradicional
+0.17,0,14,0.0,1700.0,Other,Washed / Wet,China,green,Tradicional
 0.06,1,9,0.0,1311.0,Unknown,Unknown,Kenya,Unknown,Gourmet
-0.11,5,8,0.0,695.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,14,0.0,1311.0,Unknown,Washed / Wet,Costa Rica,Green,Tradicional
-0.11,0,0,0.0,1900.0,Bourbon,Washed / Wet,Outros,Bluish-Green,Superior
-0.12,2,3,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.12,1,5,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.11,1,3,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.1,2,5,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.0,0,3,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.11,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.11,2,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Gourmet
-0.0,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.11,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.1,6,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Blue-Green,Superior
-0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Superior
-0.12,4,13,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.12,0,8,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.11,5,9,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.11,1,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.12,5,8,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.0,1,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Blue-Green,Tradicional
-0.11,2,8,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.07,0,0,0.0,1268.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.1,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Gourmet
-0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,Blue-Green,Tradicional
-0.1,0,2,0.0,1260.0,Bourbon,Washed / Wet,Brazil,Green,Tradicional
-0.11,0,0,0.0,1260.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Bluish-Green,Superior
-0.0,0,3,0.0,1200.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Tradicional
+0.11,5,8,0.0,695.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.0,0,14,0.0,1311.0,Unknown,Washed / Wet,Costa Rica,green,Superior
+0.11,0,0,0.0,1900.0,Bourbon,Washed / Wet,Outros,bluish green,Superior
+0.12,2,3,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.12,1,5,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),green,Tradicional
+0.11,1,3,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.1,2,5,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Tradicional
+0.0,0,3,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),bluish green,Tradicional
+0.11,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.11,2,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Gourmet
+0.0,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.11,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.1,6,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),blue green,Superior
+0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Tradicional
+0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Superior
+0.12,4,13,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.12,0,8,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.11,5,9,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.11,1,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.12,5,8,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),green,Tradicional
+0.0,1,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),blue green,Tradicional
+0.11,2,8,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.07,0,0,0.0,1268.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.1,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,green,Gourmet
+0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,blue green,Superior
+0.1,0,2,0.0,1260.0,Bourbon,Washed / Wet,Brazil,green,Tradicional
+0.11,0,0,0.0,1260.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,bluish green,Superior
+0.0,0,3,0.0,1200.0,Bourbon,Semi-washed / Semi-pulped,Brazil,green,Tradicional
 0.1,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,Unknown,Tradicional
-0.1,1,5,0.0,1227.0,Catuai,Semi-washed / Semi-pulped,Brazil,Green,Superior
-0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,1,0.0,1200.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Superior
-0.1,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,1,0.0,1200.0,Bourbon,Washed / Wet,Brazil,Green,Superior
-0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,0,7.0,1311.0,Unknown,Natural / Dry,Outros,Green,Tradicional
+0.1,1,5,0.0,1227.0,Catuai,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,1,0.0,1200.0,Bourbon,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.1,0,0,0.0,1260.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,1,0.0,1200.0,Bourbon,Washed / Wet,Brazil,green,Superior
+0.11,0,0,0.0,1100.0,Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,0,7.0,1311.0,Unknown,Natural / Dry,Outros,green,Tradicional
 0.0,0,9,0.0,1200.0,Other,Other,Outros,Unknown,Superior
-0.0,0,4,0.0,1100.0,Catuai,Washed / Wet,Outros,Green,Superior
-0.1,0,1,0.0,1350.0,Catimor,Natural / Dry,Thailand,Bluish-Green,Superior
-0.11,0,4,0.0,1280.0,Typica,Washed / Wet,Outros,Green,Superior
-0.1,0,28,0.0,1200.0,Typica,Washed / Wet,China,Green,Tradicional
-0.13,0,1,0.0,1350.0,Mandheling,Semi-washed / Semi-pulped,Indonesia,Blue-Green,Tradicional
-0.0,0,3,0.0,1400.0,Mandheling,Other,Indonesia,Blue-Green,Gourmet
-0.11,0,0,1.0,1250.0,Other,Other,Indonesia,Green,Tradicional
-0.13,0,8,0.0,1500.0,Sumatra,Semi-washed / Semi-pulped,Indonesia,Bluish-Green,Superior
-0.1,0,4,0.0,1311.0,Unknown,Natural / Dry,Nicaragua,Green,Tradicional
-0.1,0,0,0.0,1311.0,Typica,Washed / Wet,Colombia,Green,Tradicional
-0.0,0,15,0.0,1311.0,Unknown,Natural / Dry,Colombia,Bluish-Green,Tradicional
+0.0,0,4,0.0,1100.0,Catuai,Washed / Wet,Outros,green,Superior
+0.1,0,1,0.0,1350.0,Catimor,Natural / Dry,Thailand,bluish green,Superior
+0.11,0,4,0.0,1280.0,Typica,Washed / Wet,Outros,green,Superior
+0.1,0,28,0.0,1200.0,Typica,Washed / Wet,China,green,Tradicional
+0.13,0,1,0.0,1350.0,Outros,Semi-washed / Semi-pulped,Indonesia,blue green,Tradicional
+0.0,0,3,0.0,1400.0,Outros,Other,Indonesia,blue green,Gourmet
+0.11,0,0,1.0,1250.0,Other,Other,Indonesia,green,Tradicional
+0.13,0,8,0.0,1500.0,Outros,Semi-washed / Semi-pulped,Indonesia,bluish green,Superior
+0.1,0,4,0.0,1311.0,Unknown,Natural / Dry,Nicaragua,green,Tradicional
+0.1,0,0,0.0,1311.0,Typica,Washed / Wet,Colombia,green,Tradicional
+0.0,0,15,0.0,1311.0,Unknown,Natural / Dry,Colombia,bluish green,Tradicional
 0.01,0,8,0.0,1200.0,Typica,Unknown,Mexico,Unknown,Tradicional
 0.0,0,0,0.0,1200.0,Typica,Unknown,Mexico,Unknown,Tradicional
-0.0,0,3,0.0,1311.0,Unknown,Unknown,Peru,Unknown,Gourmet
+0.0,0,3,0.0,1311.0,Unknown,Unknown,Outros,Unknown,Gourmet
 0.0,0,1,0.0,1493.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
 0.0,0,1,0.0,1600.0,Unknown,Unknown,Costa Rica,Unknown,Tradicional
-0.1,1,9,0.0,1300.0,Caturra,Washed / Wet,Thailand,Green,Gourmet
-0.0,0,0,0.0,1600.0,Other,Washed / Wet,Outros,Bluish-Green,Superior
-0.11,0,0,0.0,1800.0,Unknown,Unknown,Colombia,Green,Superior
-0.0,0,0,0.0,1550.0,Caturra,Other,Vietnam,Green,Superior
-0.07,0,0,0.0,1550.0,Catimor,Natural / Dry,Vietnam,Unknown,Superior
-0.11,11,0,0.0,1040.0,Other,Other,Vietnam,Green,Superior
-0.12,0,0,0.0,1040.0,Caturra,Washed / Wet,Vietnam,Bluish-Green,Tradicional
-0.0,0,2,0.0,1550.0,Catimor,Other,Vietnam,Unknown,Tradicional
-0.0,0,17,0.0,1040.0,Other,Natural / Dry,Vietnam,Unknown,Superior
-0.12,0,2,0.0,1040.0,Other,Natural / Dry,Vietnam,Green,Tradicional
-0.11,1,12,0.0,1400.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,2,0.0,1350.0,Caturra,Washed / Wet,Guatemala,Unknown,Tradicional
-0.11,0,1,0.0,1300.0,Caturra,Washed / Wet,Guatemala,Bluish-Green,Superior
-0.11,0,1,0.0,1450.0,Caturra,Natural / Dry,Guatemala,Green,Superior
+0.1,1,9,0.0,1300.0,Caturra,Washed / Wet,Thailand,green,Gourmet
+0.0,0,0,0.0,1600.0,Other,Washed / Wet,Outros,bluish green,Superior
+0.11,0,0,0.0,1800.0,Unknown,Unknown,Colombia,green,Superior
+0.0,0,0,0.0,1550.0,Caturra,Other,Outros,green,Superior
+0.07,0,0,0.0,1550.0,Catimor,Natural / Dry,Outros,Unknown,Superior
+0.11,11,0,0.0,1040.0,Other,Other,Outros,green,Superior
+0.12,0,0,0.0,1040.0,Caturra,Washed / Wet,Outros,bluish green,Tradicional
+0.0,0,2,0.0,1550.0,Catimor,Other,Outros,Unknown,Tradicional
+0.0,0,17,0.0,1040.0,Other,Natural / Dry,Outros,Unknown,Superior
+0.12,0,2,0.0,1040.0,Other,Natural / Dry,Outros,green,Superior
+0.11,1,12,0.0,1400.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,2,0.0,1350.0,Caturra,Washed / Wet,Guatemala,Unknown,Superior
+0.11,0,1,0.0,1300.0,Caturra,Washed / Wet,Guatemala,bluish green,Superior
+0.11,0,1,0.0,1450.0,Caturra,Natural / Dry,Guatemala,green,Superior
 0.0,0,7,0.0,1400.0,Caturra,Washed / Wet,Guatemala,Unknown,Gourmet
-0.11,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.0,0,3,0.0,1200.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.12,0,4,0.0,1450.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,3,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Green,Superior
-0.11,0,2,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Green,Gourmet
-0.1,0,4,0.0,1100.0,Catuai,Washed / Wet,Costa Rica,Bluish-Green,Tradicional
+0.11,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.0,0,3,0.0,1200.0,Caturra,Washed / Wet,Colombia,green,Tradicional
+0.12,0,4,0.0,1450.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,3,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,green,Superior
+0.11,0,2,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,green,Gourmet
+0.1,0,4,0.0,1100.0,Catuai,Washed / Wet,Costa Rica,bluish green,Tradicional
 0.15,0,3,0.0,1200.0,Unknown,Unknown,El Salvador,Unknown,Gourmet
-0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Gourmet
+0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,bluish green,Gourmet
 0.04,1,1,0.0,1387.0,Unknown,Unknown,Guatemala,Unknown,Gourmet
 0.14,0,3,0.0,1200.0,Unknown,Unknown,El Salvador,Unknown,Superior
 0.0,1,3,0.0,1200.0,Unknown,Unknown,El Salvador,Unknown,Superior
-0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Gourmet
-0.12,0,0,0.0,1000.0,Typica,Washed / Wet,Outros,Green,Tradicional
+0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,bluish green,Gourmet
+0.12,0,0,0.0,1000.0,Typica,Washed / Wet,Outros,green,Tradicional
 0.08,1,0,0.0,1020.0,Unknown,Unknown,Outros,Unknown,Tradicional
-0.14,8,16,0.0,350.0,Typica,Natural / Dry,Outros,Blue-Green,Tradicional
-0.11,0,0,0.0,825.0,Blue Mountain,Washed / Wet,Outros,Bluish-Green,Tradicional
+0.14,8,16,0.0,350.0,Typica,Natural / Dry,Outros,blue green,Tradicional
+0.11,0,0,0.0,825.0,Outros,Washed / Wet,Outros,bluish green,Tradicional
 0.1,0,1,0.0,825.0,Typica,Washed / Wet,Outros,Unknown,Tradicional
 0.03,0,0,0.0,1500.0,Unknown,Unknown,Indonesia,Unknown,Gourmet
 0.18,0,2,0.0,925.0,Unknown,Unknown,Nicaragua,Unknown,Gourmet
@@ -236,224 +236,224 @@ Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Proc
 0.1,0,10,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Unknown,Tradicional
 0.08,0,2,0.0,1200.0,Yellow Bourbon,Unknown,Brazil,Unknown,Gourmet
 0.01,0,3,0.0,1200.0,Yellow Bourbon,Unknown,Brazil,Unknown,Gourmet
-0.12,0,0,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Bluish-Green,Tradicional
-0.12,0,4,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Bluish-Green,Superior
-0.0,1,1,0.0,1200.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Tradicional
-0.11,0,3,0.0,1325.0,Sumatra Lintong,Semi-washed / Semi-pulped,Indonesia,Green,Gourmet
-0.1,0,3,0.0,1500.0,Bourbon,Washed / Wet,El Salvador,Blue-Green,Gourmet
-0.11,0,2,0.0,1500.0,Bourbon,Natural / Dry,El Salvador,Bluish-Green,Gourmet
-0.12,0,1,0.0,1700.0,Unknown,Washed / Wet,Outros,Bluish-Green,Gourmet
+0.12,0,0,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,bluish green,Tradicional
+0.12,0,4,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,bluish green,Superior
+0.0,1,1,0.0,1200.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,green,Tradicional
+0.11,0,3,0.0,1325.0,Outros,Semi-washed / Semi-pulped,Indonesia,green,Gourmet
+0.1,0,3,0.0,1500.0,Bourbon,Washed / Wet,El Salvador,blue green,Gourmet
+0.11,0,2,0.0,1500.0,Bourbon,Natural / Dry,El Salvador,bluish green,Gourmet
+0.12,0,1,0.0,1700.0,Unknown,Washed / Wet,Outros,bluish green,Gourmet
 0.02,0,2,0.0,1500.0,Unknown,Unknown,Thailand,Unknown,Superior
 0.01,0,0,0.0,1500.0,Unknown,Unknown,Thailand,Unknown,Tradicional
-0.0,0,4,0.0,1400.0,Typica,Washed / Wet,Peru,Unknown,Tradicional
-0.11,0,0,0.0,1311.0,Peaberry,Unknown,Thailand,Unknown,Superior
+0.0,0,4,0.0,1400.0,Typica,Washed / Wet,Outros,Unknown,Tradicional
+0.11,0,0,0.0,1311.0,Outros,Unknown,Thailand,Unknown,Superior
 0.0,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Superior
 0.0,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Superior
-0.11,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Tradicional
-0.0,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Tradicional
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Bluish-Green,Superior
-0.0,1,0,0.0,1311.0,Peaberry,Unknown,Thailand,Unknown,Tradicional
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Bluish-Green,Superior
-0.12,0,0,0.0,1311.0,Other,Washed / Wet,Thailand,Bluish-Green,Superior
+0.11,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Superior
+0.0,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,bluish green,Superior
+0.0,1,0,0.0,1311.0,Outros,Unknown,Thailand,Unknown,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,bluish green,Superior
+0.12,0,0,0.0,1311.0,Other,Washed / Wet,Thailand,bluish green,Superior
 0.01,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Superior
-0.12,0,0,0.0,1311.0,Other,Washed / Wet,Thailand,Green,Gourmet
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Superior
-0.0,0,3,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Tradicional
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Superior
+0.12,0,0,0.0,1311.0,Other,Washed / Wet,Thailand,green,Gourmet
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Superior
+0.0,0,3,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Superior
 0.2,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Tradicional
 0.06,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Gourmet
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Green,Tradicional
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Blue-Green,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,green,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,blue green,Tradicional
 0.28,0,0,0.0,1311.0,Unknown,Unknown,Thailand,Unknown,Superior
-0.0,0,0,0.0,1311.0,Peaberry,Unknown,Thailand,Unknown,Tradicional
-0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,Bluish-Green,Tradicional
-0.12,0,0,0.0,1000.0,Bourbon,Semi-washed / Semi-pulped,Taiwan,Green,Gourmet
-0.12,0,0,0.0,650.0,Typica,Washed / Wet,Taiwan,Bluish-Green,Tradicional
-0.0,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.0,0,0,0.0,350.0,Typica,Natural / Dry,Taiwan,Green,Gourmet
+0.0,0,0,0.0,1311.0,Outros,Unknown,Thailand,Unknown,Tradicional
+0.12,0,0,0.0,800.0,Unknown,Washed / Wet,Thailand,bluish green,Superior
+0.12,0,0,0.0,1000.0,Bourbon,Semi-washed / Semi-pulped,Taiwan,green,Gourmet
+0.12,0,0,0.0,650.0,Typica,Washed / Wet,Taiwan,bluish green,Superior
+0.0,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.0,0,0,0.0,350.0,Typica,Natural / Dry,Taiwan,green,Gourmet
 0.0,0,0,0.0,1000.0,Typica,Natural / Dry,Taiwan,Unknown,Tradicional
-0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.1,0,0,0.0,1000.0,Bourbon,Washed / Wet,Taiwan,Blue-Green,Superior
-0.12,0,0,0.0,758.0,Typica,Washed / Wet,Taiwan,Bluish-Green,Tradicional
-0.11,0,0,0.0,850.0,Typica,Washed / Wet,Taiwan,Blue-Green,Tradicional
+0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.1,0,0,0.0,1000.0,Bourbon,Washed / Wet,Taiwan,blue green,Superior
+0.12,0,0,0.0,758.0,Typica,Washed / Wet,Taiwan,bluish green,Tradicional
+0.11,0,0,0.0,850.0,Typica,Washed / Wet,Taiwan,blue green,Tradicional
 0.0,0,0,0.0,850.0,Typica,Semi-washed / Semi-pulped,Taiwan,Unknown,Tradicional
-0.0,0,0,0.0,700.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,3,0.0,1200.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.1,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,Blue-Green,Tradicional
-0.0,0,0,0.0,750.0,Typica,Natural / Dry,Taiwan,Green,Superior
-0.12,0,0,0.0,1000.0,Typica,Washed / Wet,Taiwan,Blue-Green,Gourmet
-0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,Blue-Green,Tradicional
-0.0,0,0,0.0,750.0,Typica,Natural / Dry,Taiwan,Green,Superior
-0.0,0,1,0.0,525.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.09,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.12,0,0,0.0,680.0,Typica,Natural / Dry,Taiwan,Green,Tradicional
-0.11,0,0,5.0,1050.0,Typica,Pulped natural / honey,Taiwan,Green,Superior
-0.11,0,0,0.0,775.0,Typica,Washed / Wet,Taiwan,Bluish-Green,Tradicional
-0.11,0,0,0.0,800.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Gourmet
-0.1,0,0,0.0,1200.0,Caturra,Natural / Dry,Taiwan,Bluish-Green,Superior
-0.1,0,4,0.0,968.0,Typica,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.0,0,0,0.0,650.0,Yellow Bourbon,Natural / Dry,Taiwan,Green,Superior
-0.0,0,0,0.0,1200.0,Sumatra,Pulped natural / honey,Taiwan,Green,Gourmet
-0.0,3,4,0.0,650.0,Yellow Bourbon,Washed / Wet,Taiwan,Green,Tradicional
-0.09,31,0,0.0,350.0,Caturra,Natural / Dry,Taiwan,Green,Superior
-0.11,0,0,0.0,900.0,Typica,Washed / Wet,Taiwan,Blue-Green,Tradicional
-0.12,1,5,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),Green,Tradicional
+0.0,0,0,0.0,700.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,3,0.0,1200.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.1,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,blue green,Tradicional
+0.0,0,0,0.0,750.0,Typica,Natural / Dry,Taiwan,green,Superior
+0.12,0,0,0.0,1000.0,Typica,Washed / Wet,Taiwan,blue green,Gourmet
+0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,blue green,Tradicional
+0.0,0,0,0.0,750.0,Typica,Natural / Dry,Taiwan,green,Superior
+0.0,0,1,0.0,525.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.09,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.12,0,0,0.0,680.0,Typica,Natural / Dry,Taiwan,green,Tradicional
+0.11,0,0,5.0,1050.0,Typica,Pulped natural / honey,Taiwan,green,Superior
+0.11,0,0,0.0,775.0,Typica,Washed / Wet,Taiwan,bluish green,Tradicional
+0.11,0,0,0.0,800.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Gourmet
+0.1,0,0,0.0,1200.0,Caturra,Natural / Dry,Taiwan,bluish green,Superior
+0.1,0,4,0.0,968.0,Typica,Washed / Wet,Taiwan,bluish green,Gourmet
+0.0,0,0,0.0,650.0,Yellow Bourbon,Natural / Dry,Taiwan,green,Superior
+0.0,0,0,0.0,1200.0,Outros,Pulped natural / honey,Taiwan,green,Gourmet
+0.0,3,4,0.0,650.0,Yellow Bourbon,Washed / Wet,Taiwan,green,Tradicional
+0.09,31,0,0.0,350.0,Caturra,Natural / Dry,Taiwan,green,Superior
+0.11,0,0,0.0,900.0,Typica,Washed / Wet,Taiwan,blue green,Tradicional
+0.12,1,5,0.0,1311.0,Unknown,Natural / Dry,United States (Hawaii),green,Tradicional
 0.0,2,1,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Gourmet
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.05,12,1,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
-0.0,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.11,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Blue-Green,Gourmet
-0.12,5,7,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Tradicional
-0.0,1,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
+0.0,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.11,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),blue green,Gourmet
+0.12,5,7,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Tradicional
+0.0,1,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Tradicional
 0.0,0,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Gourmet
 0.03,2,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.0,0,1,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Gourmet
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.0,1,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Gourmet
 0.02,3,12,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
-0.12,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Superior
-0.11,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.12,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Superior
+0.12,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Superior
+0.11,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.12,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Superior
 0.0,0,17,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.01,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Gourmet
 0.0,4,6,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Gourmet
-0.13,0,6,0.0,1311.0,Arusha,Natural / Dry,United States (Hawaii),Bluish-Green,Tradicional
-0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.11,0,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.0,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
+0.13,0,6,0.0,1311.0,Outros,Natural / Dry,United States (Hawaii),bluish green,Tradicional
+0.1,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.11,0,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.0,0,0,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
-0.0,0,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Superior
+0.0,0,2,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Superior
 0.0,0,2,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
-0.12,7,10,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Blue-Green,Tradicional
-0.1,1,1,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Tradicional
+0.12,7,10,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),blue green,Tradicional
+0.1,1,1,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Tradicional
 0.0,1,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Superior
 0.01,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
-0.1,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Superior
-0.11,1,9,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Gourmet
+0.1,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Superior
+0.11,1,9,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Gourmet
 0.01,1,7,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Gourmet
-0.06,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Blue-Green,Tradicional
+0.06,0,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),blue green,Tradicional
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.01,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
-0.1,0,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Superior
-0.11,1,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Bluish-Green,Gourmet
-0.01,0,10,0.0,1311.0,Peaberry,Unknown,United States (Hawaii),Unknown,Tradicional
+0.1,0,4,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Superior
+0.11,1,1,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),bluish green,Gourmet
+0.01,0,10,0.0,1311.0,Outros,Unknown,United States (Hawaii),Unknown,Tradicional
 0.0,0,1,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Superior
 0.0,9,17,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Tradicional
 0.05,3,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
 0.0,0,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
-0.11,4,31,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Green,Tradicional
-0.1,2,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Blue-Green,Tradicional
-0.1,0,2,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Tradicional
+0.11,4,31,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),green,Tradicional
+0.1,2,0,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),blue green,Tradicional
+0.1,0,2,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Superior
 0.04,3,0,0.0,1311.0,Unknown,Unknown,United States (Hawaii),Unknown,Tradicional
 0.0,3,15,0.0,1311.0,Hawaiian Kona,Natural / Dry,United States (Hawaii),Unknown,Gourmet
-0.12,2,3,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),Green,Superior
-0.12,0,0,0.0,1100.0,Other,Washed / Wet,Mexico,Green,Superior
-0.12,0,0,0.0,1100.0,Other,Washed / Wet,Mexico,Green,Tradicional
+0.12,2,3,0.0,1311.0,Hawaiian Kona,Washed / Wet,United States (Hawaii),green,Superior
+0.12,0,0,0.0,1100.0,Other,Washed / Wet,Mexico,green,Superior
+0.12,0,0,0.0,1100.0,Other,Washed / Wet,Mexico,green,Superior
 0.11,0,2,0.0,1100.0,Other,Washed / Wet,Mexico,Unknown,Superior
-0.11,0,3,0.0,1100.0,Catuai,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,3,0.0,1100.0,Catuai,Washed / Wet,Mexico,green,Tradicional
 0.12,0,7,0.0,1100.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.12,0,8,0.0,1100.0,Other,Washed / Wet,Mexico,Unknown,Tradicional
-0.13,0,1,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,1,22,0.0,1050.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.13,0,1,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,1,22,0.0,1050.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.12,0,2,0.0,1000.0,Typica,Washed / Wet,Mexico,Unknown,Superior
 0.0,0,9,0.0,1264.0,Mundo Novo,Washed / Wet,Mexico,Unknown,Tradicional
-0.12,0,7,0.0,1250.0,Bourbon,Washed / Wet,Mexico,Blue-Green,Superior
-0.12,0,5,0.0,1600.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,2,4,0.0,1050.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.12,0,7,0.0,1250.0,Bourbon,Washed / Wet,Mexico,blue green,Superior
+0.12,0,5,0.0,1600.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,2,4,0.0,1050.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.11,0,2,0.0,1500.0,Typica,Washed / Wet,Mexico,Unknown,Superior
-0.1,0,4,0.0,1400.0,Bourbon,Washed / Wet,Mexico,Bluish-Green,Gourmet
-0.12,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,8,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,5,8,0.0,1200.0,Bourbon,Washed / Wet,Mexico,Green,Superior
+0.1,0,4,0.0,1400.0,Bourbon,Washed / Wet,Mexico,bluish green,Gourmet
+0.12,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,8,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,5,8,0.0,1200.0,Bourbon,Washed / Wet,Mexico,green,Superior
 0.11,0,4,0.0,1500.0,Typica,Washed / Wet,Mexico,Unknown,Gourmet
-0.11,0,2,0.0,1400.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,2,0.0,1400.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
 0.11,0,2,0.0,1380.0,Typica,Washed / Wet,Mexico,Unknown,Superior
-0.12,0,1,0.0,1500.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,4,0.0,1300.0,Pacas,Natural / Dry,Mexico,Unknown,Superior
+0.12,0,1,0.0,1500.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,4,0.0,1300.0,Outros,Natural / Dry,Mexico,Unknown,Superior
 0.11,0,5,0.0,1380.0,Typica,Washed / Wet,Mexico,Unknown,Superior
-0.13,0,2,0.0,1150.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,1,0.0,100.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,2,0.0,1500.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
+0.13,0,2,0.0,1150.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.13,0,1,0.0,100.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,2,0.0,1500.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
 0.0,0,0,0.0,1100.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
-0.11,0,2,0.0,1200.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1450.0,Typica,Washed / Wet,Mexico,Bluish-Green,Superior
-0.12,0,19,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,2,0.0,1200.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1450.0,Typica,Washed / Wet,Mexico,bluish green,Superior
+0.12,0,19,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.12,0,11,0.0,1250.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.13,5,16,0.0,1650.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.11,0,0,0.0,1150.0,Caturra,Washed / Wet,Mexico,Green,Superior
-0.12,0,5,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.12,0,6,0.0,1550.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.12,0,5,0.0,1560.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.12,0,7,0.0,1700.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,2,0.0,1500.0,Typica,Washed / Wet,Mexico,Green,Superior
+0.11,0,0,0.0,1150.0,Caturra,Washed / Wet,Mexico,green,Superior
+0.12,0,5,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,6,0.0,1550.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,5,0.0,1560.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,7,0.0,1700.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,2,0.0,1500.0,Typica,Washed / Wet,Mexico,green,Superior
 0.12,1,4,0.0,1200.0,Typica,Natural / Dry,Mexico,Unknown,Superior
-0.11,1,10,0.0,1480.0,Typica,Washed / Wet,Mexico,Green,Gourmet
-0.13,1,3,0.0,1200.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,6,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,4,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,9,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,6,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,3,0.0,1248.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,5,0.0,1100.0,Typica,Washed / Wet,Mexico,Bluish-Green,Tradicional
-0.11,0,21,0.0,940.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
-0.11,0,12,0.0,940.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Superior
-0.11,0,4,0.0,940.0,Caturra,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
-0.13,0,23,0.0,1250.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,5,0.0,1250.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
+0.11,1,10,0.0,1480.0,Typica,Washed / Wet,Mexico,green,Gourmet
+0.13,1,3,0.0,1200.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,0,6,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,4,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,9,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,6,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,3,0.0,1248.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,5,0.0,1100.0,Typica,Washed / Wet,Mexico,bluish green,Tradicional
+0.11,0,21,0.0,940.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Tradicional
+0.11,0,12,0.0,940.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Superior
+0.11,0,4,0.0,940.0,Caturra,Semi-washed / Semi-pulped,Mexico,green,Tradicional
+0.13,0,23,0.0,1250.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.13,0,5,0.0,1250.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
 0.11,0,0,0.0,1200.0,Typica,Semi-washed / Semi-pulped,Mexico,Unknown,Gourmet
 0.14,0,0,0.0,1250.0,Typica,Semi-washed / Semi-pulped,Mexico,Unknown,Tradicional
-0.13,0,2,0.0,1400.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Superior
-0.12,0,1,0.0,1450.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Gourmet
+0.13,0,2,0.0,1400.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Superior
+0.12,0,1,0.0,1450.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Gourmet
 0.13,0,2,0.0,1150.0,Caturra,Washed / Wet,Mexico,Unknown,Tradicional
-0.13,3,7,0.0,1800.0,Typica,Natural / Dry,Mexico,Green,Tradicional
-0.13,3,13,0.0,1800.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,4,13,0.0,1800.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1170.0,Bourbon,Washed / Wet,Mexico,Green,Superior
-0.13,0,1,0.0,1170.0,Caturra,Washed / Wet,Mexico,Green,Superior
-0.13,0,14,0.0,1170.0,Bourbon,Natural / Dry,Mexico,Green,Superior
-0.13,0,3,0.0,1170.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,9,0.0,1170.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1170.0,Bourbon,Washed / Wet,Mexico,Green,Gourmet
-0.12,10,32,0.0,900.0,Typica,Washed / Wet,Mexico,Blue-Green,Superior
-0.13,0,0,0.0,1320.0,Other,Washed / Wet,Mexico,Green,Gourmet
-0.12,0,4,0.0,1000.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,7,0.0,1200.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Superior
-0.1,0,1,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,0,0,0.0,1200.0,Typica,Washed / Wet,Mexico,Bluish-Green,Tradicional
-0.13,0,7,0.0,1311.0,Mundo Novo,Washed / Wet,Mexico,Green,Superior
-0.14,1,17,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,0,2,0.0,1218.0,Bourbon,Natural / Dry,Mexico,Green,Superior
-0.13,23,29,0.0,1280.0,Typica,Washed / Wet,Mexico,Bluish-Green,Tradicional
-0.12,0,6,0.0,1300.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,4,0.0,1300.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,6,0.0,1300.0,Bourbon,Washed / Wet,Mexico,Green,Superior
-0.12,0,5,0.0,1300.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,13,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,0,6,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.11,0,3,0.0,1050.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1000.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1000.0,Caturra,Washed / Wet,Mexico,Blue-Green,Superior
+0.13,3,7,0.0,1800.0,Typica,Natural / Dry,Mexico,green,Tradicional
+0.13,3,13,0.0,1800.0,Typica,Washed / Wet,Mexico,green,Superior
+0.13,4,13,0.0,1800.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1170.0,Bourbon,Washed / Wet,Mexico,green,Superior
+0.13,0,1,0.0,1170.0,Caturra,Washed / Wet,Mexico,green,Superior
+0.13,0,14,0.0,1170.0,Bourbon,Natural / Dry,Mexico,green,Superior
+0.13,0,3,0.0,1170.0,Bourbon,Washed / Wet,Mexico,green,Superior
+0.13,0,9,0.0,1170.0,Bourbon,Washed / Wet,Mexico,green,Superior
+0.12,0,0,0.0,1170.0,Bourbon,Washed / Wet,Mexico,green,Gourmet
+0.12,10,32,0.0,900.0,Typica,Washed / Wet,Mexico,blue green,Superior
+0.13,0,0,0.0,1320.0,Other,Washed / Wet,Mexico,green,Gourmet
+0.12,0,4,0.0,1000.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,7,0.0,1200.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Superior
+0.1,0,1,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,0,0,0.0,1200.0,Typica,Washed / Wet,Mexico,bluish green,Tradicional
+0.13,0,7,0.0,1311.0,Mundo Novo,Washed / Wet,Mexico,green,Superior
+0.14,1,17,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,0,2,0.0,1218.0,Bourbon,Natural / Dry,Mexico,green,Superior
+0.13,23,29,0.0,1280.0,Typica,Washed / Wet,Mexico,bluish green,Tradicional
+0.12,0,6,0.0,1300.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,4,0.0,1300.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,6,0.0,1300.0,Bourbon,Washed / Wet,Mexico,green,Superior
+0.12,0,5,0.0,1300.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,13,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Superior
+0.1,0,6,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,3,0.0,1050.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1000.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1000.0,Caturra,Washed / Wet,Mexico,blue green,Superior
 0.13,0,4,0.0,1250.0,Bourbon,Washed / Wet,Mexico,Unknown,Superior
 0.12,0,12,0.0,1300.0,Mundo Novo,Natural / Dry,Mexico,Unknown,Tradicional
-0.11,0,4,0.0,1400.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,6,0.0,1000.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
-0.12,0,10,0.0,1100.0,Catuai,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,4,0.0,1400.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.11,0,6,0.0,1000.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Tradicional
+0.12,0,10,0.0,1100.0,Catuai,Washed / Wet,Mexico,green,Tradicional
 0.11,0,20,0.0,900.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
 0.12,0,14,0.0,1400.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.13,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,1,7,0.0,1100.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.12,2,7,0.0,850.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,12,0.0,950.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.12,1,11,0.0,1200.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.14,0,19,0.0,750.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.13,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,1,7,0.0,1100.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.12,2,7,0.0,850.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.12,0,12,0.0,950.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.12,1,11,0.0,1200.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.14,0,19,0.0,750.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.14,0,23,0.0,950.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.13,0,5,0.0,700.0,Typica,Washed / Wet,Mexico,Green,Superior
+0.13,0,5,0.0,700.0,Typica,Washed / Wet,Mexico,green,Superior
 0.15,0,1,0.0,1450.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.14,3,17,0.0,1550.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
+0.14,3,17,0.0,1550.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Tradicional
 0.14,0,0,0.0,1500.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.14,1,2,0.0,1550.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.14,1,2,0.0,1550.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.15,4,5,0.0,1500.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.16,0,2,0.0,1500.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.15,0,0,0.0,1300.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
@@ -462,13 +462,13 @@ Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Proc
 0.16,0,0,0.0,1400.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.16,2,4,0.0,1400.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.14,0,0,0.0,1450.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
-0.14,0,6,0.0,1350.0,Pacamara,Washed / Wet,Mexico,Green,Superior
-0.12,4,11,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.11,0,45,0.0,1100.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.11,4,20,0.0,1100.0,Pacamara,Washed / Wet,Mexico,Green,Tradicional
-0.14,0,34,0.0,1450.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,4,0.0,1022.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.15,1,9,0.0,1144.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
+0.14,0,6,0.0,1350.0,Outros,Washed / Wet,Mexico,green,Superior
+0.12,4,11,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,45,0.0,1100.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.11,4,20,0.0,1100.0,Outros,Washed / Wet,Mexico,green,Tradicional
+0.14,0,34,0.0,1450.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.13,0,4,0.0,1022.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.15,1,9,0.0,1144.0,Typica,Washed / Wet,Mexico,Unknown,Superior
 0.13,2,9,0.0,774.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
 0.11,2,8,0.0,808.0,Caturra,Washed / Wet,Mexico,Unknown,Tradicional
 0.13,1,8,0.0,763.0,Caturra,Washed / Wet,Mexico,Unknown,Tradicional
@@ -476,177 +476,177 @@ Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Proc
 0.13,5,6,0.0,975.0,Caturra,Washed / Wet,Mexico,Unknown,Tradicional
 0.14,2,8,0.0,690.0,Mundo Novo,Washed / Wet,Mexico,Unknown,Tradicional
 0.13,2,7,0.0,981.0,Typica,Semi-washed / Semi-pulped,Mexico,Unknown,Tradicional
-0.16,3,8,0.0,533.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
-0.14,0,10,0.0,1089.0,Pacamara,Washed / Wet,Mexico,Unknown,Superior
+0.16,3,8,0.0,533.0,Bourbon,Washed / Wet,Mexico,Unknown,Superior
+0.14,0,10,0.0,1089.0,Outros,Washed / Wet,Mexico,Unknown,Superior
 0.13,0,10,0.0,1679.0,Typica,Washed / Wet,Mexico,Unknown,Superior
-0.15,1,8,0.0,441.0,Typica,Natural / Dry,Mexico,Unknown,Tradicional
+0.15,1,8,0.0,441.0,Typica,Natural / Dry,Mexico,Unknown,Superior
 0.13,5,5,0.0,700.0,Caturra,Natural / Dry,Mexico,Unknown,Superior
-0.11,0,12,0.0,1100.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,3,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,0,4,0.0,1248.0,Typica,Natural / Dry,Mexico,Green,Superior
-0.14,0,0,0.0,1320.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.14,1,4,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.13,1,13,0.0,1650.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,30,0.0,800.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,0,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.11,0,20,0.0,1200.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1400.0,Pacamara,Washed / Wet,Mexico,Green,Superior
-0.14,15,7,0.0,850.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,30,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,9,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,2,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,6,0.0,1250.0,Typica,Natural / Dry,Mexico,Green,Tradicional
-0.12,0,1,0.0,1700.0,Typica,Washed / Wet,Mexico,Blue-Green,Gourmet
+0.11,0,12,0.0,1100.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.11,0,3,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,0,4,0.0,1248.0,Typica,Natural / Dry,Mexico,green,Superior
+0.14,0,0,0.0,1320.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.14,1,4,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Superior
+0.13,1,13,0.0,1650.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.13,0,30,0.0,800.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,0,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,20,0.0,1200.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1400.0,Outros,Washed / Wet,Mexico,green,Superior
+0.14,15,7,0.0,850.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,30,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,9,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,2,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,6,0.0,1250.0,Typica,Natural / Dry,Mexico,green,Tradicional
+0.12,0,1,0.0,1700.0,Typica,Washed / Wet,Mexico,blue green,Gourmet
 0.12,0,4,0.0,1000.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.11,0,0,0.0,1250.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,7,0.0,1210.0,Catuai,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
-0.12,0,12,0.0,1000.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,10,0.0,1000.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,0,0.0,1250.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.13,0,7,0.0,1210.0,Catuai,Semi-washed / Semi-pulped,Mexico,green,Tradicional
+0.12,0,12,0.0,1000.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.13,0,10,0.0,1000.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
 0.13,0,27,0.0,1200.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.11,0,20,0.0,750.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.11,0,11,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,20,0.0,750.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,11,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.12,0,0,0.0,1200.0,Typica,Washed / Wet,Mexico,Unknown,Superior
-0.11,0,1,0.0,1250.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,0,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,5,0.0,1550.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,2,10,0.0,1550.0,Caturra,Washed / Wet,Mexico,Green,Superior
-0.12,10,14,0.0,1550.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,4,16,0.0,1550.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,1,20,0.0,1550.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,1,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,2,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,2,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.11,0,1,0.0,1250.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,0,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Superior
+0.13,0,5,0.0,1550.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,2,10,0.0,1550.0,Caturra,Washed / Wet,Mexico,green,Superior
+0.12,10,14,0.0,1550.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,4,16,0.0,1550.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,1,20,0.0,1550.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.11,0,1,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,2,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,2,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Tradicional
 0.11,0,2,0.0,1650.0,Typica,Semi-washed / Semi-pulped,Mexico,Unknown,Superior
-0.11,0,0,0.0,1600.0,Marigojipe,Natural / Dry,Mexico,Unknown,Tradicional
+0.11,0,0,0.0,1600.0,Outros,Natural / Dry,Mexico,Unknown,Tradicional
 0.11,0,2,0.0,1650.0,Typica,Natural / Dry,Mexico,Unknown,Tradicional
 0.12,0,1,0.0,1650.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.12,0,1,0.0,940.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.14,3,11,0.0,1140.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.14,7,38,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,0.0,1350.0,Typica,Washed / Wet,Mexico,Green,Gourmet
-0.11,0,0,0.0,1800.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,5,0.0,1642.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,14,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,4,0.0,1338.0,Mundo Novo,Washed / Wet,Mexico,Blue-Green,Tradicional
-0.12,0,4,0.0,1650.0,Other,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,3,0.0,1100.0,Typica,Natural / Dry,Mexico,Green,Tradicional
-0.12,0,10,0.0,1250.0,Typica,Semi-washed / Semi-pulped,Mexico,Green,Tradicional
-0.13,0,7,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.14,0,9,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.12,0,12,0.0,1250.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.13,0,12,0.0,1186.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.12,4,24,0.0,800.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,0,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.12,0,1,0.0,940.0,Typica,Washed / Wet,Mexico,green,Superior
+0.14,3,11,0.0,1140.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.14,7,38,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,0.0,1350.0,Typica,Washed / Wet,Mexico,green,Gourmet
+0.11,0,0,0.0,1800.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.11,0,5,0.0,1642.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.13,0,14,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,0,4,0.0,1338.0,Mundo Novo,Washed / Wet,Mexico,blue green,Superior
+0.12,0,4,0.0,1650.0,Other,Washed / Wet,Mexico,green,Tradicional
+0.11,0,3,0.0,1100.0,Typica,Natural / Dry,Mexico,green,Tradicional
+0.12,0,10,0.0,1250.0,Typica,Semi-washed / Semi-pulped,Mexico,green,Tradicional
+0.13,0,7,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Superior
+0.14,0,9,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Superior
+0.12,0,12,0.0,1250.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.13,0,12,0.0,1186.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.12,4,24,0.0,800.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.11,0,0,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Superior
 0.1,0,1,0.0,1400.0,Other,Washed / Wet,Mexico,Unknown,Superior
 0.12,0,0,0.0,950.0,Typica,Washed / Wet,Mexico,Unknown,Superior
 0.13,0,1,0.0,1100.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
-0.12,2,4,0.0,900.0,Pacamara,Washed / Wet,Mexico,Unknown,Gourmet
-0.12,0,4,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,0,0.0,1296.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.11,0,0,0.0,1296.0,Typica,Natural / Dry,Mexico,Green,Superior
-0.1,0,3,0.0,900.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.0,0,2,0.0,1400.0,Typica,Washed / Wet,Mexico,Green,Superior
-0.0,0,8,0.0,1100.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.1,0,1,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
+0.12,2,4,0.0,900.0,Outros,Washed / Wet,Mexico,Unknown,Gourmet
+0.12,0,4,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.11,0,0,0.0,1296.0,Typica,Washed / Wet,Mexico,green,Superior
+0.11,0,0,0.0,1296.0,Typica,Natural / Dry,Mexico,green,Superior
+0.1,0,3,0.0,900.0,Typica,Washed / Wet,Mexico,green,Superior
+0.0,0,2,0.0,1400.0,Typica,Washed / Wet,Mexico,green,Superior
+0.0,0,8,0.0,1100.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.1,0,1,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Superior
 0.13,0,3,0.0,1200.0,Typica,Washed / Wet,Mexico,Unknown,Gourmet
-0.12,0,0,0.0,1150.0,Typica,Washed / Wet,Mexico,Green,Superior
+0.12,0,0,0.0,1150.0,Typica,Washed / Wet,Mexico,green,Superior
 0.1,0,1,0.0,1300.0,Typica,Washed / Wet,Mexico,Unknown,Tradicional
 0.12,0,0,0.0,1350.0,Bourbon,Washed / Wet,Mexico,Unknown,Tradicional
-0.0,0,2,0.0,1166.0,Catuai,Washed / Wet,Outros,Green,Tradicional
-0.0,0,2,0.0,1219.0,Catuai,Washed / Wet,Outros,Green,Tradicional
+0.0,0,2,0.0,1166.0,Catuai,Washed / Wet,Outros,green,Tradicional
+0.0,0,2,0.0,1219.0,Catuai,Washed / Wet,Outros,green,Tradicional
 0.0,0,5,0.0,1067.0,Other,Other,Outros,Unknown,Tradicional
-0.0,0,4,0.0,1172.0,Other,Washed / Wet,Outros,Green,Tradicional
-0.0,0,1,0.0,1307.0,Catuai,Natural / Dry,Outros,Green,Tradicional
-0.0,0,4,0.0,1219.0,Catuai,Washed / Wet,Outros,Green,Tradicional
-0.0,0,2,0.0,1158.0,Other,Washed / Wet,Outros,Green,Tradicional
-0.11,0,5,0.0,1400.0,Arusha,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.12,0,5,0.0,1500.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,1,0.0,1800.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.12,0,3,0.0,16.8,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.0,0,1,0.0,1800.0,Unknown,Unknown,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,1,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,0,0.0,2075.0,Unknown,Washed / Wet,Ethiopia,Green,Gourmet
-0.12,0,2,0.0,2075.0,Other,Washed / Wet,Ethiopia,Green,Gourmet
-0.12,0,1,0.0,2075.0,Other,Washed / Wet,Ethiopia,Green,Gourmet
+0.0,0,4,0.0,1172.0,Other,Washed / Wet,Outros,green,Tradicional
+0.0,0,1,0.0,1307.0,Catuai,Natural / Dry,Outros,green,Tradicional
+0.0,0,4,0.0,1219.0,Catuai,Washed / Wet,Outros,green,Tradicional
+0.0,0,2,0.0,1158.0,Other,Washed / Wet,Outros,green,Tradicional
+0.11,0,5,0.0,1400.0,Outros,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,5,0.0,1500.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,1,0.0,1800.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,3,0.0,16.8,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.0,0,1,0.0,1800.0,Unknown,Unknown,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,1,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,0,0.0,2075.0,Unknown,Washed / Wet,Ethiopia,green,Gourmet
+0.12,0,2,0.0,2075.0,Other,Washed / Wet,Ethiopia,green,Gourmet
+0.12,0,1,0.0,2075.0,Other,Washed / Wet,Ethiopia,green,Gourmet
 0.1,0,1,0.0,1905.0,Unknown,Natural / Dry,Ethiopia,Unknown,Gourmet
-0.1,0,3,0.0,1775.0,Unknown,Natural / Dry,Ethiopia,Green,Gourmet
-0.1,0,5,0.0,1606.5,Gesha,Natural / Dry,Ethiopia,Green,Gourmet
-0.11,0,2,0.0,2000.0,Unknown,Natural / Dry,Ethiopia,Green,Gourmet
-0.1,0,4,0.0,1822.5,Other,Natural / Dry,Ethiopia,Green,Gourmet
+0.1,0,3,0.0,1775.0,Unknown,Natural / Dry,Ethiopia,green,Gourmet
+0.1,0,5,0.0,1606.5,Gesha,Natural / Dry,Ethiopia,green,Gourmet
+0.11,0,2,0.0,2000.0,Unknown,Natural / Dry,Ethiopia,green,Gourmet
+0.1,0,4,0.0,1822.5,Other,Natural / Dry,Ethiopia,green,Gourmet
 0.1,1,18,0.0,1600.0,Unknown,Natural / Dry,Ethiopia,Unknown,Superior
-0.1,0,18,0.0,1900.0,Unknown,Washed / Wet,Ethiopia,Green,Gourmet
-0.12,0,7,0.0,1900.0,Other,Natural / Dry,Ethiopia,Green,Gourmet
+0.1,0,18,0.0,1900.0,Unknown,Washed / Wet,Ethiopia,green,Gourmet
+0.12,0,7,0.0,1900.0,Other,Natural / Dry,Ethiopia,green,Gourmet
 0.09,0,7,4.0,1311.0,Caturra,Natural / Dry,Ethiopia,Unknown,Gourmet
-0.11,0,8,1.0,1311.0,Other,Natural / Dry,Ethiopia,Green,Gourmet
-0.12,0,4,0.0,1676.5,Unknown,Natural / Dry,Ethiopia,Green,Superior
-0.1,0,4,0.0,1900.0,Unknown,Washed / Wet,Ethiopia,Green,Gourmet
+0.11,0,8,1.0,1311.0,Other,Natural / Dry,Ethiopia,green,Gourmet
+0.12,0,4,0.0,1676.5,Unknown,Natural / Dry,Ethiopia,green,Superior
+0.1,0,4,0.0,1900.0,Unknown,Washed / Wet,Ethiopia,green,Gourmet
 0.0,0,4,0.0,1250.0,Bourbon,Washed / Wet,El Salvador,Unknown,Superior
-0.0,0,1,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,Green,Superior
-0.11,0,2,0.0,1250.0,Bourbon,Washed / Wet,El Salvador,Green,Tradicional
+0.0,0,1,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,green,Superior
+0.11,0,2,0.0,1250.0,Bourbon,Washed / Wet,El Salvador,green,Tradicional
 0.11,0,0,0.0,1330.0,Bourbon,Washed / Wet,El Salvador,Unknown,Superior
-0.0,0,4,0.0,1250.0,Pacas,Washed / Wet,El Salvador,Green,Superior
-0.0,0,0,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,Green,Superior
-0.0,0,6,2.0,1450.0,Bourbon,Washed / Wet,El Salvador,Green,Tradicional
-0.0,0,2,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,Blue-Green,Gourmet
-0.12,0,0,0.0,1500.0,Bourbon,Washed / Wet,El Salvador,Green,Tradicional
-0.0,0,12,0.0,1250.0,Bourbon,Washed / Wet,El Salvador,Bluish-Green,Tradicional
-0.0,0,7,0.0,1200.0,Pacas,Washed / Wet,El Salvador,Green,Superior
-0.13,0,6,0.0,1250.0,Typica,Semi-washed / Semi-pulped,Indonesia,Blue-Green,Superior
-0.11,0,1,0.0,1200.0,Other,Washed / Wet,Outros,Blue-Green,Superior
-0.12,0,15,0.0,1500.0,Sulawesi,Other,Indonesia,Blue-Green,Superior
-0.15,0,3,0.0,1300.0,Bourbon,Washed / Wet,Indonesia,Unknown,Tradicional
-0.11,0,5,0.0,1250.0,Other,Washed / Wet,Indonesia,Green,Superior
-0.12,0,7,0.0,1200.0,Java,Washed / Wet,Indonesia,Green,Gourmet
-0.13,0,1,0.0,1300.0,Java,Washed / Wet,Indonesia,Unknown,Tradicional
-0.12,0,0,0.0,1400.0,Typica,Washed / Wet,Indonesia,Green,Superior
-0.12,0,0,0.0,1311.0,Mandheling,Natural / Dry,Indonesia,Bluish-Green,Gourmet
+0.0,0,4,0.0,1250.0,Outros,Washed / Wet,El Salvador,green,Superior
+0.0,0,0,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,green,Superior
+0.0,0,6,2.0,1450.0,Bourbon,Washed / Wet,El Salvador,green,Tradicional
+0.0,0,2,0.0,1350.0,Bourbon,Washed / Wet,El Salvador,blue green,Gourmet
+0.12,0,0,0.0,1500.0,Bourbon,Washed / Wet,El Salvador,green,Superior
+0.0,0,12,0.0,1250.0,Bourbon,Washed / Wet,El Salvador,bluish green,Tradicional
+0.0,0,7,0.0,1200.0,Outros,Washed / Wet,El Salvador,green,Superior
+0.13,0,6,0.0,1250.0,Typica,Semi-washed / Semi-pulped,Indonesia,blue green,Superior
+0.11,0,1,0.0,1200.0,Other,Washed / Wet,Outros,blue green,Superior
+0.12,0,15,0.0,1500.0,Outros,Other,Indonesia,blue green,Superior
+0.15,0,3,0.0,1300.0,Bourbon,Washed / Wet,Indonesia,Unknown,Superior
+0.11,0,5,0.0,1250.0,Other,Washed / Wet,Indonesia,green,Superior
+0.12,0,7,0.0,1200.0,Outros,Washed / Wet,Indonesia,green,Gourmet
+0.13,0,1,0.0,1300.0,Outros,Washed / Wet,Indonesia,Unknown,Tradicional
+0.12,0,0,0.0,1400.0,Typica,Washed / Wet,Indonesia,green,Superior
+0.12,0,0,0.0,1311.0,Outros,Natural / Dry,Indonesia,bluish green,Gourmet
 0.0,0,0,0.0,1600.0,Unknown,Unknown,Indonesia,Unknown,Superior
 0.0,0,0,0.0,1350.0,Unknown,Unknown,Indonesia,Unknown,Superior
-0.12,0,0,0.0,1400.0,Other,Washed / Wet,Indonesia,Green,Tradicional
-0.09,0,1,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Superior
-0.11,0,2,0.0,1.3,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.09,0,4,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Superior
-0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Gourmet
-0.11,0,4,0.0,1.85,Caturra,Washed / Wet,Costa Rica,Blue-Green,Tradicional
-0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Superior
-0.11,0,1,0.0,1350.0,Unknown,Unknown,Costa Rica,Blue-Green,Superior
-0.11,0,3,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.12,0,1,0.0,1.3,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Superior
-0.1,6,3,1.0,1850.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Tradicional
-0.1,0,3,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Gourmet
-0.1,0,2,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Gourmet
-0.1,0,2,0.0,1150.0,Catuai,Washed / Wet,Costa Rica,Blue-Green,Gourmet
+0.12,0,0,0.0,1400.0,Other,Washed / Wet,Indonesia,green,Tradicional
+0.09,0,1,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,bluish green,Superior
+0.11,0,2,0.0,1.3,Caturra,Washed / Wet,Costa Rica,green,Superior
+0.09,0,4,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,blue green,Superior
+0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,blue green,Gourmet
+0.11,0,4,0.0,1.85,Caturra,Washed / Wet,Costa Rica,blue green,Tradicional
+0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,blue green,Superior
+0.11,0,1,0.0,1350.0,Unknown,Unknown,Costa Rica,blue green,Superior
+0.11,0,3,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.12,0,1,0.0,1.3,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.0,0,0,0.0,1850.0,Caturra,Washed / Wet,Costa Rica,blue green,Superior
+0.1,6,3,1.0,1850.0,Caturra,Washed / Wet,Costa Rica,bluish green,Superior
+0.1,0,3,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,blue green,Gourmet
+0.1,0,2,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,bluish green,Gourmet
+0.1,0,2,0.0,1150.0,Catuai,Washed / Wet,Costa Rica,blue green,Gourmet
 0.11,0,0,0.0,1311.0,Unknown,Washed / Wet,Costa Rica,Unknown,Superior
-0.0,0,0,2.0,1550.0,Catuai,Washed / Wet,Costa Rica,Green,Tradicional
-0.1,0,0,0.0,1000.0,Unknown,Unknown,Nicaragua,Bluish-Green,Tradicional
-0.09,0,2,0.0,1700.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Gourmet
-0.11,0,3,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,Green,Superior
-0.1,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,Green,Superior
-0.1,0,4,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,Green,Tradicional
-0.11,0,4,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,Green,Gourmet
-0.1,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,Green,Superior
-0.11,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,Green,Tradicional
-0.11,0,3,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,Green,Superior
-0.11,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,Green,Superior
-0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Gourmet
-0.08,0,0,1.0,1600.0,Gesha,Washed / Wet,Outros,Bluish-Green,Gourmet
-0.12,0,0,0.0,1750.0,Caturra,Washed / Wet,Costa Rica,Green,Gourmet
-0.11,0,0,0.0,1700.0,Caturra,Washed / Wet,Costa Rica,Green,Gourmet
-0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,1,0.0,1200.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.13,0,0,0.0,1500.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.1,0,0,0.0,1400.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.1,0,0,0.0,1400.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.12,0,0,0.0,1000.0,Caturra,Natural / Dry,Nicaragua,Bluish-Green,Gourmet
-0.09,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.11,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Bluish-Green,Tradicional
-0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,Blue-Green,Tradicional
-0.12,2,4,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.11,0,7,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
-0.12,1,2,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,Green,Tradicional
+0.0,0,0,2.0,1550.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.1,0,0,0.0,1000.0,Unknown,Unknown,Nicaragua,bluish green,Tradicional
+0.09,0,2,0.0,1700.0,Caturra,Washed / Wet,Costa Rica,bluish green,Gourmet
+0.11,0,3,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.1,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.1,0,4,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.11,0,4,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,green,Gourmet
+0.1,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.11,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,green,Tradicional
+0.11,0,3,0.0,1200.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.11,0,3,0.0,1300.0,Catuai,Washed / Wet,Costa Rica,green,Superior
+0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,blue green,Gourmet
+0.08,0,0,1.0,1600.0,Gesha,Washed / Wet,Outros,bluish green,Gourmet
+0.12,0,0,0.0,1750.0,Caturra,Washed / Wet,Costa Rica,green,Gourmet
+0.11,0,0,0.0,1700.0,Caturra,Washed / Wet,Costa Rica,green,Gourmet
+0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1200.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.13,0,0,0.0,1500.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.1,0,0,0.0,1400.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,0,2,0.0,1300.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.1,0,0,0.0,1400.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.12,0,0,0.0,1000.0,Caturra,Natural / Dry,Nicaragua,bluish green,Gourmet
+0.09,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.11,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,bluish green,Tradicional
+0.0,0,0,0.0,1300.0,Caturra,Washed / Wet,Costa Rica,blue green,Superior
+0.12,2,4,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.11,0,7,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
+0.12,1,2,0.0,1200.0,Caturra,Washed / Wet,Costa Rica,green,Tradicional
 0.1,0,4,0.0,1750.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
 0.2,0,2,0.0,1311.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
 0.03,0,0,0.0,1635.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
@@ -665,165 +665,165 @@ Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Proc
 0.2,0,3,0.0,1750.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
 0.05,0,2,0.0,1311.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
 0.03,0,0,0.0,1635.0,Unknown,Unknown,Ethiopia,Unknown,Gourmet
-0.11,0,0,1.0,1311.0,Unknown,Unknown,Peru,Green,Superior
-0.0,0,0,0.0,1625.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
+0.11,0,0,1.0,1311.0,Unknown,Unknown,Outros,green,Superior
+0.0,0,0,0.0,1625.0,Caturra,Washed / Wet,Colombia,blue green,Superior
 0.0,1,5,3.0,1311.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.0,0,6,7.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.0,0,5,3.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.12,0,0,0.0,1.65,Typica,Washed / Wet,Colombia,Green,Superior
-0.0,0,2,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Superior
+0.0,0,6,7.0,1311.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,5,3.0,1311.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.12,0,0,0.0,1.65,Typica,Washed / Wet,Colombia,green,Superior
+0.0,0,2,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Superior
 0.1,0,1,0.0,1600.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,1,0.0,442.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,1,0.0,442.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,0,0,0.0,2560.0,Caturra,Natural / Dry,Colombia,Unknown,Gourmet
-0.0,0,2,0.0,1000.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.0,1,3,3.0,442.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,1,2,0.0,442.0,Unknown,Unknown,Colombia,Green,Superior
-0.11,0,4,0.0,2136.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.12,4,0,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.11,6,0,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.0,0,5,0.0,1799.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Superior
-0.11,0,2,0.0,2560.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.0,1,6,0.0,2527.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,4,0.0,442.0,Unknown,Unknown,Colombia,Green,Superior
-0.12,3,0,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.0,0,0,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.0,0,0,0.0,442.0,Caturra,Natural / Dry,Colombia,Green,Tradicional
-0.11,0,2,0.0,442.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,1,0.0,1311.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.11,0,1,0.0,1000.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.0,0,4,1.0,1799.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,0,0.0,1000.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.11,0,1,0.0,1000.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.0,0,1,2.0,439.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.0,0,2,0.0,1000.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.0,1,3,3.0,442.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,1,2,0.0,442.0,Unknown,Unknown,Colombia,green,Superior
+0.11,0,4,0.0,2136.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.12,4,0,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.11,6,0,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.0,0,5,0.0,1799.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
+0.11,0,2,0.0,2560.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.0,1,6,0.0,2527.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,4,0.0,442.0,Unknown,Unknown,Colombia,green,Superior
+0.12,3,0,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.0,0,0,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.0,0,0,0.0,442.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.11,0,2,0.0,442.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,1,0.0,1311.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.11,0,1,0.0,1000.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.0,0,4,1.0,1799.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,0,0.0,1000.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.11,0,1,0.0,1000.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.0,0,1,2.0,439.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,0,2,0.0,442.0,Caturra,Natural / Dry,Colombia,Unknown,Superior
-0.11,0,8,0.0,2136.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.08,1,5,0.0,1600.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,3,0.0,1550.0,Other,Washed / Wet,Colombia,Green,Superior
-0.11,2,7,0.0,1600.0,Other,Washed / Wet,Colombia,Green,Gourmet
-0.12,0,4,0.0,1530.0,Other,Washed / Wet,Colombia,Green,Gourmet
-0.12,0,0,0.0,1480.0,Unknown,Washed / Wet,Colombia,Green,Gourmet
-0.11,3,5,0.0,1450.0,Other,Washed / Wet,Colombia,Green,Superior
-0.12,4,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.0,0,4,0.0,1500.0,Other,Washed / Wet,Colombia,Blue-Green,Gourmet
-0.0,0,4,4.0,1600.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.22,0,2,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,2,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Tradicional
-0.12,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.11,0,8,0.0,2136.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.08,1,5,0.0,1600.0,Unknown,Unknown,Colombia,Unknown,Superior
+0.0,0,3,0.0,1550.0,Other,Washed / Wet,Colombia,green,Superior
+0.11,2,7,0.0,1600.0,Other,Washed / Wet,Colombia,green,Gourmet
+0.12,0,4,0.0,1530.0,Other,Washed / Wet,Colombia,green,Gourmet
+0.12,0,0,0.0,1480.0,Unknown,Washed / Wet,Colombia,green,Gourmet
+0.11,3,5,0.0,1450.0,Other,Washed / Wet,Colombia,green,Superior
+0.12,4,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.0,0,4,0.0,1500.0,Other,Washed / Wet,Colombia,blue green,Gourmet
+0.0,0,4,4.0,1600.0,Caturra,Washed / Wet,Colombia,green,Tradicional
+0.22,0,2,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Superior
+0.0,2,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,bluish green,Tradicional
+0.12,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.0,0,4,2.0,1311.0,Unknown,Unknown,Colombia,Unknown,Gourmet
-0.12,0,3,0.0,1800.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.0,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Gourmet
+0.12,0,3,0.0,1800.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.0,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,bluish green,Gourmet
 0.21,0,2,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.12,0,4,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.12,0,4,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.15,0,0,0.0,1450.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.18,0,2,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,9,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,1,0.0,1900.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.11,1,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.12,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Superior
+0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,9,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1900.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,1,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.12,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
 0.06,1,0,0.0,1450.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.11,0,4,0.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
-0.11,0,2,0.0,1900.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,4,0.0,1311.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,blue green,Superior
+0.11,0,2,0.0,1900.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,0,1,1.0,1311.0,Unknown,Unknown,Colombia,Unknown,Tradicional
 0.0,0,5,0.0,1750.0,Caturra,Washed / Wet,Colombia,Unknown,Gourmet
-0.12,0,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,1,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.0,1,5,2.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,2,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.12,0,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,1,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,1,5,2.0,1311.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,2,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,0,2,0.0,1775.0,Caturra,Washed / Wet,Colombia,Unknown,Gourmet
-0.11,0,1,0.0,1500.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,1,0.0,1500.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,1,2,6.0,1311.0,Caturra,Washed / Wet,Colombia,Unknown,Gourmet
 0.0,0,2,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,3,0.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.0,0,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,3,0.0,1311.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.0,0,4,0.0,1775.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
-0.0,0,2,0.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.07,0,2,0.0,1775.0,Caturra,Unknown,Colombia,Unknown,Tradicional
-0.11,1,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,1,4,0.0,1311.0,Unknown,Washed / Wet,Colombia,Green,Superior
-0.11,1,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,1,0,2.0,1311.0,Caturra,Unknown,Colombia,Green,Superior
-0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.0,0,2,0.0,1311.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.07,0,2,0.0,1775.0,Caturra,Unknown,Colombia,Unknown,Superior
+0.11,1,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,0,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,1,4,0.0,1311.0,Unknown,Washed / Wet,Colombia,green,Superior
+0.11,1,1,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,1,0,2.0,1311.0,Caturra,Unknown,Colombia,green,Superior
+0.11,0,3,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.08,0,0,0.0,1775.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,1,0.0,1900.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.0,0,1,0.0,1900.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.08,0,1,0.0,1450.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.0,0,5,0.0,1775.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,1,0.0,1600.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,1,2,0.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,5,1.0,1311.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.0,0,5,0.0,1775.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1600.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,1,2,0.0,1311.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,5,1.0,1311.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.0,0,0,0.0,1311.0,Caturra,Washed / Wet,Colombia,Unknown,Tradicional
 0.01,0,0,0.0,1775.0,Caturra,Unknown,Colombia,Unknown,Superior
 0.1,0,3,0.0,1311.0,Unknown,Unknown,Unknown,Unknown,Tradicional
-0.0,0,0,0.0,1311.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
-0.0,4,4,0.0,1800.0,Typica,Natural / Dry,Colombia,Green,Superior
+0.0,0,0,0.0,1311.0,Caturra,Washed / Wet,Colombia,blue green,Superior
+0.0,4,4,0.0,1800.0,Typica,Natural / Dry,Colombia,green,Superior
 0.06,0,1,0.0,1600.0,Unknown,Unknown,Colombia,Unknown,Superior
 0.08,1,3,0.0,1880.0,Unknown,Unknown,Colombia,Unknown,Superior
 0.05,0,0,0.0,1700.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,0,0.0,1800.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.0,0,0,0.0,1800.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.0,0,0,1.0,1650.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
-0.11,0,3,0.0,1800.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Superior
-0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Bluish-Green,Tradicional
+0.11,0,3,0.0,1800.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
+0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,bluish green,Superior
 0.13,0,1,0.0,1880.0,Unknown,Unknown,Colombia,Unknown,Superior
 0.06,0,2,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,1,0.0,1700.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.11,0,1,0.0,1700.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.1,0,4,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
+0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Gourmet
 0.11,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
-0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,4,0.0,1625.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,1,4,0.0,1311.0,Arusha,Natural / Dry,Colombia,Unknown,Superior
+0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,4,0.0,1625.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,1,4,0.0,1311.0,Outros,Natural / Dry,Colombia,Unknown,Superior
 0.08,0,3,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Superior
 0.16,0,2,0.0,1880.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,1,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,2,0.0,1700.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,0,0,0.0,1850.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.08,0,0,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
-0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
+0.0,1,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,2,0.0,1700.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,0,0,0.0,1850.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Tradicional
+0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.08,0,0,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Superior
+0.0,0,2,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,blue green,Superior
+0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.01,0,1,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.12,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,6,0.0,1800.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.0,0,0,0.0,1750.0,Caturra,Natural / Dry,Colombia,Bluish-Green,Superior
-0.12,0,1,0.0,175.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,0,0.0,1750.0,Caturra,Natural / Dry,Colombia,Green,Tradicional
-0.11,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
-0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Blue-Green,Superior
+0.12,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,6,0.0,1800.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.0,0,0,0.0,1750.0,Caturra,Natural / Dry,Colombia,bluish green,Superior
+0.12,0,1,0.0,175.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,0,0.0,1750.0,Caturra,Natural / Dry,Colombia,green,Tradicional
+0.11,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,blue green,Superior
+0.0,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,blue green,Superior
 0.02,0,1,0.0,1750.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,2,0.0,1450.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.0,0,2,0.0,1550.0,Caturra,Washed / Wet,Colombia,Green,Tradicional
-0.0,1,0,0.0,1800.0,Caturra,Washed / Wet,Colombia,Blue-Green,Gourmet
-0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.11,0,1,0.0,1650.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,2,0.0,1450.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.0,0,2,0.0,1550.0,Caturra,Washed / Wet,Colombia,green,Tradicional
+0.0,1,0,0.0,1800.0,Caturra,Washed / Wet,Colombia,blue green,Gourmet
+0.11,0,0,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.11,0,1,0.0,1650.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.08,0,0,0.0,1700.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.0,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.0,0,3,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.04,0,1,0.0,1800.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.11,0,1,0.0,1750.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.09,0,1,0.0,1600.0,Unknown,Unknown,Colombia,Unknown,Tradicional
-0.0,0,1,0.0,1311.0,Unknown,Washed / Wet,Colombia,Green,Tradicional
+0.0,0,1,0.0,1311.0,Unknown,Washed / Wet,Colombia,green,Tradicional
 0.0,1,0,0.0,1311.0,Unknown,Washed / Wet,Colombia,Unknown,Superior
-0.12,1,0,0.0,1800.0,Other,Washed / Wet,Colombia,Green,Gourmet
+0.12,1,0,0.0,1800.0,Other,Washed / Wet,Colombia,green,Gourmet
 0.1,1,3,0.0,1311.0,Unknown,Unknown,Colombia,Unknown,Superior
-0.0,1,9,0.0,1311.0,Unknown,Washed / Wet,Colombia,Green,Superior
-0.12,0,0,0.0,1800.0,Other,Washed / Wet,Colombia,Green,Gourmet
+0.0,1,9,0.0,1311.0,Unknown,Washed / Wet,Colombia,green,Superior
+0.12,0,0,0.0,1800.0,Other,Washed / Wet,Colombia,green,Gourmet
 0.0,0,0,0.0,1311.0,Unknown,Washed / Wet,Colombia,Unknown,Superior
 0.0,1,1,0.0,1311.0,Unknown,Washed / Wet,Colombia,Unknown,Superior
 0.0,0,0,0.0,2019.0,Other,Washed / Wet,Outros,Unknown,Gourmet
@@ -832,678 +832,676 @@ Moisture,Category_One_Defects,Category_Two_Defects,Quakers,Altitude,Variety,Proc
 0.0,0,0,0.0,1943.0,Other,Washed / Wet,Outros,Unknown,Gourmet
 0.0,0,0,0.0,1941.0,Other,Washed / Wet,Outros,Unknown,Gourmet
 0.0,0,0,0.0,2112.0,Other,Washed / Wet,Outros,Unknown,Gourmet
-0.0,0,0,0.0,1600.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.12,0,0,0.0,1450.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
-0.12,0,1,0.0,1813.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.12,0,2,0.0,1550.0,Caturra,Natural / Dry,Colombia,Green,Gourmet
+0.0,0,0,0.0,1600.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.12,0,0,0.0,1450.0,Caturra,Natural / Dry,Colombia,green,Gourmet
+0.12,0,1,0.0,1813.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.12,0,2,0.0,1550.0,Caturra,Natural / Dry,Colombia,green,Gourmet
 0.0,0,1,0.0,1550.0,Caturra,Natural / Dry,Colombia,Unknown,Tradicional
-0.0,0,0,0.0,1483.0,Caturra,Natural / Dry,Colombia,Green,Superior
-0.12,0,3,0.0,1550.0,Caturra,Natural / Dry,Colombia,Green,Superior
+0.0,0,0,0.0,1483.0,Caturra,Natural / Dry,Colombia,green,Superior
+0.12,0,3,0.0,1550.0,Caturra,Natural / Dry,Colombia,green,Superior
 0.0,2,0,0.0,1650.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
 0.0,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,Unknown,Gourmet
-0.12,0,1,0.0,1550.0,Caturra,Washed / Wet,Colombia,Green,Superior
+0.12,0,1,0.0,1550.0,Caturra,Washed / Wet,Colombia,green,Superior
 0.0,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,Unknown,Superior
-0.0,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.1,0,5,0.0,1524.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.11,0,6,0.0,1117.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,4,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,1,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.09,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,1,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,2,5,0.0,1524.0,Pacas,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,6,8.0,1320.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,0.0,1500.0,Caturra,Natural / Dry,Guatemala,Green,Superior
-0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1219.0,Bourbon,Natural / Dry,Guatemala,Green,Superior
-0.11,0,1,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.12,0,5,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,2.0,1311.0,Bourbon,Unknown,Guatemala,Green,Gourmet
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,0,0.0,1524.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,1,4,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,3,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,2,0.0,1311.0,Catuai,Natural / Dry,Guatemala,Bluish-Green,Gourmet
-0.11,1,2,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,0.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.11,0,6,0.0,1550.0,Catuai,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,3,0.0,1524.0,Pacas,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,5,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,6,7.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,0,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,2,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1099.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.12,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,1,0.0,1661.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,3,0.0,1753.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,2,5,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,4,4.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
+0.0,0,0,0.0,1550.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.1,0,5,0.0,1524.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.11,0,6,0.0,1117.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,4,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,1,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.09,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,1,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,2,5,0.0,1524.0,Outros,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,6,8.0,1320.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,0.0,1500.0,Caturra,Natural / Dry,Guatemala,green,Superior
+0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1219.0,Bourbon,Natural / Dry,Guatemala,green,Superior
+0.11,0,1,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,0,5,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,2.0,1311.0,Bourbon,Unknown,Guatemala,green,Gourmet
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.1,0,0,0.0,1524.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,1,4,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,3,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,2,0.0,1311.0,Catuai,Natural / Dry,Guatemala,bluish green,Gourmet
+0.11,1,2,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,0.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.11,0,6,0.0,1550.0,Catuai,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,3,0.0,1524.0,Outros,Washed / Wet,Guatemala,green,Superior
+0.11,0,5,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,6,7.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,0,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,1.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,2,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1099.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.12,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,1,0.0,1661.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,3,0.0,1753.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,2,5,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,4,4.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
 0.11,0,8,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Unknown,Tradicional
-0.11,0,13,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,2,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,1,0.0,1524.0,Pacas,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,0,0.0,1219.0,Bourbon,Other,Guatemala,Green,Gourmet
-0.1,0,4,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,3,0.0,1311.0,Bourbon,Natural / Dry,Guatemala,Green,Tradicional
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,4.0,1901.64,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,1.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,10,1.0,1565.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,2,0.0,1391.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
+0.11,0,13,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,2,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,1,0.0,1524.0,Outros,Washed / Wet,Guatemala,green,Gourmet
+0.1,0,0,0.0,1219.0,Bourbon,Other,Guatemala,green,Gourmet
+0.1,0,4,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,3,0.0,1311.0,Bourbon,Natural / Dry,Guatemala,green,Superior
+0.1,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,4.0,1901.64,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,1.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,10,1.0,1565.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,2,0.0,1391.0,Bourbon,Washed / Wet,Guatemala,green,Superior
 0.12,0,10,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Unknown,Tradicional
-0.11,0,7,0.0,1550.0,Catuai,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,2,6,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,1,0.0,1731.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,7,2.0,2100.0,Pacas,Washed / Wet,Guatemala,Green,Superior
-0.11,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.12,1,8,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,7,0.0,1707.0,Caturra,Washed / Wet,Guatemala,Green,Gourmet
-0.1,1,2,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,6,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,4,0.0,1417.0,Catuai,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,5,0.0,1384.0,Bourbon,Natural / Dry,Guatemala,Green,Tradicional
-0.13,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.12,1,1,0.0,1859.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,4,0.0,1753.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1219.0,Bourbon,Natural / Dry,Guatemala,Green,Gourmet
-0.1,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.12,0,0,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
+0.11,0,7,0.0,1550.0,Catuai,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,2,6,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,1,0.0,1731.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,7,2.0,2100.0,Outros,Washed / Wet,Guatemala,green,Superior
+0.11,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,1,8,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,7,0.0,1707.0,Caturra,Washed / Wet,Guatemala,green,Gourmet
+0.1,1,2,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,6,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,4,0.0,1417.0,Catuai,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,5,0.0,1384.0,Bourbon,Natural / Dry,Guatemala,green,Tradicional
+0.13,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.12,1,1,0.0,1859.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,4,0.0,1753.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1219.0,Bourbon,Natural / Dry,Guatemala,green,Gourmet
+0.1,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,0,0,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
 0.12,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Unknown,Tradicional
-0.12,0,0,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1417.0,Catuai,Washed / Wet,Guatemala,Bluish-Green,Gourmet
-0.12,0,3,0.0,1524.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.1,0,2,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,3,1.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,0.0,1372.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.13,0,2,0.0,1524.0,Pacas,Washed / Wet,Guatemala,Green,Superior
-0.1,1,2,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,6,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,1,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,4,0.0,1524.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,5,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,Bluish-Green,Superior
-0.09,0,8,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.11,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,2,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,2,3,2.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,0,2,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,15,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,1,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,8,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,2,0.0,1372.0,Catuai,Washed / Wet,Guatemala,Green,Superior
-0.11,0,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,1,1,0.0,518.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,3,0.0,1650.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,3,1.0,1100.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,1,0,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,2,0.0,1707.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.12,0,0,0.0,1311.0,Bourbon,Unknown,Guatemala,Green,Tradicional
-0.1,0,0,0.0,1357.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,2,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,1,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.12,0,0,0.0,518.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,8,0.0,1800.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.11,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,5,0.0,1311.0,Caturra,Natural / Dry,Guatemala,Green,Superior
-0.12,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,0,0.0,1372.0,Catuai,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.09,0,1,0.0,1524.0,Catuai,Washed / Wet,Guatemala,Green,Superior
-0.1,0,6,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,3,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,2,2.0,1450.0,Pacas,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,7,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,4,0.0,1524.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
+0.12,0,0,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1417.0,Catuai,Washed / Wet,Guatemala,bluish green,Gourmet
+0.12,0,3,0.0,1524.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.1,0,2,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,3,1.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,0.0,1372.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.13,0,2,0.0,1524.0,Outros,Washed / Wet,Guatemala,green,Superior
+0.1,1,2,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,6,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,1,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,4,0.0,1524.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,5,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,bluish green,Superior
+0.09,0,8,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.11,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,2,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,2,3,2.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,0,2,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,15,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,1,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,8,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,2,0.0,1372.0,Catuai,Washed / Wet,Guatemala,green,Superior
+0.11,0,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,1,1,0.0,518.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,3,0.0,1650.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,3,1.0,1100.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,1,0,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,2,0.0,1707.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,0,0,0.0,1311.0,Bourbon,Unknown,Guatemala,green,Tradicional
+0.1,0,0,0.0,1357.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,2,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,1,3,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.12,0,0,0.0,518.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,8,0.0,1800.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.11,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,5,0.0,1311.0,Caturra,Natural / Dry,Guatemala,green,Superior
+0.12,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,0,0.0,1372.0,Catuai,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,0,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.09,0,1,0.0,1524.0,Catuai,Washed / Wet,Guatemala,green,Superior
+0.1,0,6,0.0,1550.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,3,9,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,2,2.0,1450.0,Outros,Washed / Wet,Guatemala,green,Superior
+0.12,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,2,0.0,1000.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.11,0,2,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,7,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,4,0.0,1524.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
 0.11,0,10,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Unknown,Tradicional
-0.11,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,6,0.0,1676.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,2,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,3,0.0,1550.0,Catuai,Washed / Wet,Guatemala,Green,Superior
-0.11,0,0,0.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.12,0,0,0.0,518.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,1,0.0,1600.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
+0.11,0,1,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1700.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,6,0.0,1676.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,2,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,3,0.0,1550.0,Catuai,Washed / Wet,Guatemala,green,Superior
+0.11,0,0,0.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.12,0,0,0.0,518.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1901.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,2.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,1,0.0,1600.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
 0.11,0,5,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Unknown,Tradicional
-0.11,0,2,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,3,2.0,1311.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,0,4,0.0,1500.0,Caturra,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,0,1.0,1128.0,Caturra,Washed / Wet,Guatemala,Green,Superior
-0.1,0,3,1.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.12,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.1,0,1,0.0,1219.0,Bourbon,Other,Guatemala,Green,Gourmet
-0.1,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.11,2,15,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.12,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,Green,Tradicional
-0.11,0,10,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Superior
-0.11,0,0,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Green,Tradicional
-0.1,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,Green,Gourmet
-0.13,0,1,0.0,1450.0,Catuai,Natural / Dry,Honduras,Green,Tradicional
-0.11,0,3,0.0,1350.0,Caturra,Natural / Dry,Honduras,Green,Superior
-0.1,0,4,0.0,1350.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.13,0,1,0.0,1450.0,Catuai,Natural / Dry,Honduras,Green,Tradicional
-0.1,0,3,0.0,1350.0,Caturra,Natural / Dry,Honduras,Green,Superior
-0.1,0,5,0.0,1400.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.11,0,3,1.0,1200.0,Catimor,Washed / Wet,Honduras,Blue-Green,Tradicional
-0.11,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,3,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,Blue-Green,Tradicional
-0.09,0,4,0.0,1350.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Gourmet
-0.09,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,0,0.0,1400.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,0,0.0,1450.0,Unknown,Unknown,Honduras,Green,Tradicional
-0.11,0,1,1.0,1450.0,Catuai,Washed / Wet,Honduras,Blue-Green,Superior
-0.1,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,4,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Superior
-0.1,0,1,0.0,1000.0,Unknown,Unknown,Nicaragua,Green,Tradicional
-0.1,0,4,0.0,1400.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.11,0,2,1.0,1500.0,Caturra,Washed / Wet,Honduras,Bluish-Green,Tradicional
-0.1,0,2,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Superior
-0.1,0,5,0.0,1500.0,Caturra,Washed / Wet,Honduras,Green,Gourmet
-0.1,0,7,1.0,1600.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.1,0,3,0.0,1400.0,Caturra,Unknown,Honduras,Green,Gourmet
-0.11,0,3,2.0,1500.0,Caturra,Washed / Wet,Honduras,Bluish-Green,Tradicional
-0.1,0,3,0.0,1500.0,Caturra,Unknown,Honduras,Green,Gourmet
-0.1,0,8,1.0,1396.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.12,0,1,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,2,1.0,1500.0,Catuai,Washed / Wet,Honduras,Green,Gourmet
-0.12,0,1,0.0,1600.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.09,0,6,1.0,1400.0,Caturra,Natural / Dry,Honduras,Green,Superior
-0.11,0,2,0.0,1450.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.11,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,5,0.0,1650.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.11,0,5,0.0,1650.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.1,0,5,0.0,1450.0,Catuai,Natural / Dry,Honduras,Green,Superior
-0.12,0,3,0.0,1450.0,Catuai,Washed / Wet,Honduras,Green,Tradicional
-0.12,0,1,0.0,1350.0,Caturra,Natural / Dry,Honduras,Green,Tradicional
-0.09,0,7,0.0,1200.0,Unknown,Washed / Wet,Nicaragua,Green,Tradicional
-0.13,1,5,0.0,1100.0,Caturra,Other,Nicaragua,Green,Tradicional
-0.11,0,3,0.0,1100.0,Caturra,Other,Nicaragua,Green,Tradicional
-0.1,0,4,2.0,1100.0,Caturra,Other,Nicaragua,Green,Tradicional
-0.1,1,7,5.0,1311.0,Unknown,Unknown,Nicaragua,Green,Tradicional
-0.11,0,0,1.0,1311.0,Unknown,Unknown,Nicaragua,Green,Tradicional
-0.11,0,12,0.0,1350.0,Pacas,Washed / Wet,Honduras,Green,Tradicional
-0.11,1,16,0.0,1350.0,Pacas,Washed / Wet,Honduras,Green,Tradicional
-0.11,2,6,0.0,1350.0,Pacas,Natural / Dry,Honduras,Green,Tradicional
-0.11,0,7,0.0,1350.0,Pacas,Natural / Dry,Honduras,Green,Tradicional
-0.1,0,1,0.0,1311.0,Unknown,Unknown,Nicaragua,Green,Tradicional
-0.1,0,3,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,Green,Superior
-0.1,0,5,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,Green,Tradicional
-0.12,2,6,0.0,900.0,Catuai,Natural / Dry,Brazil,Green,Superior
+0.11,0,2,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,3,2.0,1311.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,0,4,0.0,1500.0,Caturra,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,0,1.0,1128.0,Caturra,Washed / Wet,Guatemala,green,Superior
+0.1,0,3,1.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.12,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.1,0,1,0.0,1219.0,Bourbon,Other,Guatemala,green,Gourmet
+0.1,0,0,0.0,1219.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.11,2,15,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.12,0,3,0.0,1219.0,Other,Washed / Wet,Guatemala,green,Tradicional
+0.11,0,10,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Superior
+0.11,0,0,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,green,Tradicional
+0.1,0,4,0.0,1311.0,Bourbon,Washed / Wet,Guatemala,green,Gourmet
+0.13,0,1,0.0,1450.0,Catuai,Natural / Dry,Honduras,green,Tradicional
+0.11,0,3,0.0,1350.0,Caturra,Natural / Dry,Honduras,green,Superior
+0.1,0,4,0.0,1350.0,Caturra,Natural / Dry,Honduras,green,Tradicional
+0.13,0,1,0.0,1450.0,Catuai,Natural / Dry,Honduras,green,Tradicional
+0.1,0,3,0.0,1350.0,Caturra,Natural / Dry,Honduras,green,Superior
+0.1,0,5,0.0,1400.0,Caturra,Natural / Dry,Honduras,green,Tradicional
+0.11,0,3,1.0,1200.0,Catimor,Washed / Wet,Honduras,blue green,Tradicional
+0.11,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.1,0,3,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.11,0,2,0.0,1450.0,Catuai,Washed / Wet,Honduras,blue green,Tradicional
+0.09,0,4,0.0,1350.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.11,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Gourmet
+0.09,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.1,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.12,0,1,0.0,1400.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.11,0,2,0.0,1350.0,Catuai,Washed / Wet,Honduras,green,Superior
+0.1,0,4,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.11,0,0,0.0,1400.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.1,0,0,0.0,1450.0,Unknown,Unknown,Honduras,green,Tradicional
+0.11,0,1,1.0,1450.0,Catuai,Washed / Wet,Honduras,blue green,Superior
+0.1,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Tradicional
+0.1,0,4,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Superior
+0.1,0,1,0.0,1000.0,Unknown,Unknown,Nicaragua,green,Superior
+0.1,0,4,0.0,1400.0,Caturra,Natural / Dry,Honduras,green,Tradicional
+0.11,0,2,1.0,1500.0,Caturra,Washed / Wet,Honduras,bluish green,Superior
+0.1,0,2,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Superior
+0.1,0,5,0.0,1500.0,Caturra,Washed / Wet,Honduras,green,Gourmet
+0.1,0,7,1.0,1600.0,Caturra,Natural / Dry,Honduras,green,Superior
+0.1,0,3,0.0,1400.0,Caturra,Unknown,Honduras,green,Gourmet
+0.11,0,3,2.0,1500.0,Caturra,Washed / Wet,Honduras,bluish green,Tradicional
+0.1,0,3,0.0,1500.0,Caturra,Unknown,Honduras,green,Gourmet
+0.1,0,8,1.0,1396.0,Caturra,Washed / Wet,Honduras,green,Superior
+0.12,0,1,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Tradicional
+0.11,0,2,1.0,1500.0,Catuai,Washed / Wet,Honduras,green,Gourmet
+0.12,0,1,0.0,1600.0,Caturra,Washed / Wet,Honduras,green,Superior
+0.09,0,6,1.0,1400.0,Caturra,Natural / Dry,Honduras,green,Superior
+0.11,0,2,0.0,1450.0,Caturra,Natural / Dry,Honduras,green,Tradicional
+0.11,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Tradicional
+0.11,0,5,0.0,1400.0,Caturra,Washed / Wet,Honduras,green,Superior
+0.11,0,5,0.0,1650.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.11,0,5,0.0,1650.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.1,0,5,0.0,1450.0,Catuai,Natural / Dry,Honduras,green,Superior
+0.12,0,3,0.0,1450.0,Catuai,Washed / Wet,Honduras,green,Tradicional
+0.12,0,1,0.0,1350.0,Caturra,Natural / Dry,Honduras,green,Tradicional
+0.09,0,7,0.0,1200.0,Unknown,Washed / Wet,Nicaragua,green,Tradicional
+0.13,1,5,0.0,1100.0,Caturra,Other,Nicaragua,green,Tradicional
+0.11,0,3,0.0,1100.0,Caturra,Other,Nicaragua,green,Tradicional
+0.1,0,4,2.0,1100.0,Caturra,Other,Nicaragua,green,Tradicional
+0.1,1,7,5.0,1311.0,Unknown,Unknown,Nicaragua,green,Tradicional
+0.11,0,0,1.0,1311.0,Unknown,Unknown,Nicaragua,green,Tradicional
+0.11,0,12,0.0,1350.0,Outros,Washed / Wet,Honduras,green,Tradicional
+0.11,1,16,0.0,1350.0,Outros,Washed / Wet,Honduras,green,Tradicional
+0.11,2,6,0.0,1350.0,Outros,Natural / Dry,Honduras,green,Tradicional
+0.11,0,7,0.0,1350.0,Outros,Natural / Dry,Honduras,green,Tradicional
+0.1,0,1,0.0,1311.0,Unknown,Unknown,Nicaragua,green,Tradicional
+0.1,0,3,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,green,Superior
+0.1,0,5,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,green,Tradicional
+0.12,2,6,0.0,900.0,Catuai,Natural / Dry,Brazil,green,Superior
 0.0,0,16,0.0,1150.0,Catuai,Natural / Dry,Brazil,Unknown,Gourmet
-0.11,0,14,0.0,1100.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,2,0.0,1100.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,3,1.0,973.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,7,0.0,1311.0,Unknown,Pulped natural / honey,Brazil,Green,Superior
-0.11,0,14,4.0,1311.0,Unknown,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,4,0.0,1020.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,5,3.0,894.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,2,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,Bluish-Green,Superior
-0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,3,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,7,2.0,934.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,2,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,Bluish-Green,Superior
-0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,3,1.0,894.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,3,2.0,872.0,Bourbon,Natural / Dry,Brazil,Bluish-Green,Superior
-0.0,0,3,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,0,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,9,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,Bluish-Green,Superior
-0.0,0,3,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,2,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,5,1.0,934.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,1,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,Bluish-Green,Superior
-0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,Bluish-Green,Tradicional
-0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Superior
-0.11,0,3,2.0,944.0,Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,5,0.0,1100.0,Bourbon,Pulped natural / honey,Brazil,Green,Tradicional
-0.0,0,0,0.0,1000.0,Catuai,Natural / Dry,Brazil,Green,Superior
-0.11,0,11,3.0,982.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,1,1.0,995.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,6,1.0,1311.0,Unknown,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,55,1.0,1311.0,Unknown,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,8,0.0,1200.0,Yellow Bourbon,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,6,0.0,1200.0,Yellow Bourbon,Other,Brazil,Green,Tradicional
-0.11,0,9,6.0,1311.0,Bourbon,Pulped natural / honey,Brazil,Green,Tradicional
-0.11,0,3,2.0,1311.0,Yellow Bourbon,Pulped natural / honey,Brazil,Bluish-Green,Tradicional
-0.12,0,6,0.0,1311.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Superior
-0.11,0,10,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,7,0.0,1311.0,Unknown,Unknown,Brazil,Green,Tradicional
-0.11,0,0,1.0,1311.0,Unknown,Unknown,Brazil,Green,Superior
-0.12,0,4,0.0,1311.0,Unknown,Unknown,Brazil,Green,Superior
-0.11,0,13,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,Green,Superior
-0.12,0,0,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,1,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.0,1,2,9.0,1311.0,Unknown,Unknown,Brazil,Green,Superior
+0.11,0,14,0.0,1100.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.11,0,2,0.0,1100.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.11,0,3,1.0,973.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.11,0,7,0.0,1311.0,Unknown,Pulped natural / honey,Brazil,green,Superior
+0.11,0,14,4.0,1311.0,Unknown,Natural / Dry,Brazil,green,Superior
+0.11,0,4,0.0,1020.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.11,0,5,3.0,894.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,2,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,bluish green,Superior
+0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,3,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.11,0,7,2.0,934.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,2,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,bluish green,Superior
+0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.11,0,3,1.0,894.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,3,2.0,872.0,Bourbon,Natural / Dry,Brazil,bluish green,Superior
+0.0,0,3,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,0,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,9,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,4,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,bluish green,Superior
+0.0,0,3,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,2,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,5,1.0,934.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,5,0.0,890.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,1,2.0,905.0,Yellow Bourbon,Pulped natural / honey,Brazil,bluish green,Superior
+0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.0,0,1,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,3,2.0,934.0,Bourbon,Natural / Dry,Brazil,bluish green,Superior
+0.0,0,0,0.0,1.0,Yellow Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,3,2.0,944.0,Bourbon,Natural / Dry,Brazil,green,Superior
+0.11,0,5,0.0,1100.0,Bourbon,Pulped natural / honey,Brazil,green,Tradicional
+0.0,0,0,0.0,1000.0,Catuai,Natural / Dry,Brazil,green,Superior
+0.11,0,11,3.0,982.0,Catuai,Natural / Dry,Brazil,green,Superior
+0.11,0,1,1.0,995.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.11,0,6,1.0,1311.0,Unknown,Natural / Dry,Brazil,green,Tradicional
+0.11,0,55,1.0,1311.0,Unknown,Natural / Dry,Brazil,green,Tradicional
+0.12,0,8,0.0,1200.0,Yellow Bourbon,Natural / Dry,Brazil,green,Tradicional
+0.12,0,6,0.0,1200.0,Yellow Bourbon,Other,Brazil,green,Tradicional
+0.11,0,9,6.0,1311.0,Bourbon,Pulped natural / honey,Brazil,green,Tradicional
+0.11,0,3,2.0,1311.0,Yellow Bourbon,Pulped natural / honey,Brazil,bluish green,Tradicional
+0.12,0,6,0.0,1311.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.11,0,10,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.11,0,7,0.0,1311.0,Unknown,Unknown,Brazil,green,Tradicional
+0.11,0,0,1.0,1311.0,Unknown,Unknown,Brazil,green,Superior
+0.12,0,4,0.0,1311.0,Unknown,Unknown,Brazil,green,Superior
+0.11,0,13,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.12,0,0,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.12,0,1,0.0,1311.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.0,1,2,9.0,1311.0,Unknown,Unknown,Brazil,green,Superior
 0.12,0,9,0.0,1311.0,Catuai,Natural / Dry,Brazil,Unknown,Superior
-0.11,0,3,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Tradicional
-0.11,0,0,1.0,1311.0,Unknown,Unknown,Brazil,Green,Tradicional
-0.12,3,4,0.0,1311.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.0,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,16,0.0,1100.0,Moka Peaberry,Semi-washed / Semi-pulped,Brazil,Green,Superior
-0.11,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,7,0.0,1425.0,Catuai,Washed / Wet,Mexico,Green,Tradicional
-0.12,1,13,0.0,1200.0,Caturra,Washed / Wet,Mexico,Green,Superior
-0.12,0,10,0.0,1200.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,2,0.0,1200.0,Caturra,Washed / Wet,Mexico,Green,Superior
-0.13,0,3,0.0,1059.0,Typica,Natural / Dry,Mexico,Blue-Green,Superior
-0.12,0,2,0.0,1261.0,Typica,Natural / Dry,Mexico,Bluish-Green,Superior
-0.12,0,2,0.0,1250.0,Bourbon,Natural / Dry,Brazil,Green,Gourmet
-0.11,0,2,0.0,950.0,Mundo Novo,Washed / Wet,Brazil,Green,Tradicional
-0.12,0,1,0.0,1311.0,Arusha,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,1,0.0,1000.0,Catuai,Semi-washed / Semi-pulped,Brazil,Blue-Green,Superior
-0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,Green,Superior
-0.12,0,2,0.0,1300.0,Bourbon,Natural / Dry,Brazil,Green,Gourmet
-0.12,0,2,0.0,1000.0,Catuai,Natural / Dry,Brazil,Green,Gourmet
+0.11,0,3,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,green,Tradicional
+0.11,0,0,1.0,1311.0,Unknown,Unknown,Brazil,green,Tradicional
+0.12,3,4,0.0,1311.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.0,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,green,Tradicional
+0.11,0,16,0.0,1100.0,Outros,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.11,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,7,0.0,1425.0,Catuai,Washed / Wet,Mexico,green,Tradicional
+0.12,1,13,0.0,1200.0,Caturra,Washed / Wet,Mexico,green,Superior
+0.12,0,10,0.0,1200.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,0,2,0.0,1200.0,Caturra,Washed / Wet,Mexico,green,Superior
+0.13,0,3,0.0,1059.0,Typica,Natural / Dry,Mexico,blue green,Superior
+0.12,0,2,0.0,1261.0,Typica,Natural / Dry,Mexico,bluish green,Superior
+0.12,0,2,0.0,1250.0,Bourbon,Natural / Dry,Brazil,green,Gourmet
+0.11,0,2,0.0,950.0,Mundo Novo,Washed / Wet,Brazil,green,Superior
+0.12,0,1,0.0,1311.0,Outros,Natural / Dry,Brazil,green,Superior
+0.12,0,1,0.0,1000.0,Catuai,Semi-washed / Semi-pulped,Brazil,blue green,Superior
+0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.12,0,2,0.0,1300.0,Bourbon,Natural / Dry,Brazil,green,Gourmet
+0.12,0,2,0.0,1000.0,Catuai,Natural / Dry,Brazil,green,Gourmet
 0.02,0,2,0.0,925.0,Mundo Novo,Unknown,Brazil,Unknown,Tradicional
-0.12,0,3,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,Green,Gourmet
-0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,2,0.0,1311.0,Arusha,Natural / Dry,Brazil,Blue-Green,Superior
-0.12,0,2,0.0,1300.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Gourmet
-0.11,0,1,0.0,1050.0,Catuai,Semi-washed / Semi-pulped,Brazil,Blue-Green,Tradicional
-0.11,0,1,0.0,1100.0,Catuai,Semi-washed / Semi-pulped,Brazil,Blue-Green,Gourmet
-0.11,0,1,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Blue-Green,Gourmet
+0.12,0,3,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,green,Gourmet
+0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.11,0,2,0.0,1311.0,Outros,Natural / Dry,Brazil,blue green,Superior
+0.12,0,2,0.0,1300.0,Bourbon,Semi-washed / Semi-pulped,Brazil,green,Gourmet
+0.11,0,1,0.0,1050.0,Catuai,Semi-washed / Semi-pulped,Brazil,blue green,Superior
+0.11,0,1,0.0,1100.0,Catuai,Semi-washed / Semi-pulped,Brazil,blue green,Gourmet
+0.11,0,1,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,blue green,Gourmet
 0.02,0,2,0.0,900.0,Unknown,Unknown,Brazil,Unknown,Superior
 0.0,0,4,0.0,1275.0,Yellow Bourbon,Unknown,Brazil,Unknown,Gourmet
-0.11,0,2,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Blue-Green,Gourmet
+0.11,0,2,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,blue green,Gourmet
 0.02,0,2,0.0,1050.0,Unknown,Unknown,Brazil,Unknown,Gourmet
-0.12,0,3,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,2,0.0,950.0,Mundo Novo,Semi-washed / Semi-pulped,Brazil,Green,Tradicional
-0.12,0,2,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.12,0,2,0.0,1100.0,Catuai,Semi-washed / Semi-pulped,Brazil,Blue-Green,Superior
-0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,Green,Superior
-0.11,0,1,0.0,1200.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Blue-Green,Superior
+0.12,0,3,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,green,Tradicional
+0.12,0,2,0.0,950.0,Mundo Novo,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.12,0,2,0.0,1100.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.12,0,2,0.0,1100.0,Catuai,Semi-washed / Semi-pulped,Brazil,blue green,Superior
+0.12,0,1,0.0,1000.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.11,0,4,0.0,950.0,Mundo Novo,Natural / Dry,Brazil,green,Superior
+0.11,0,1,0.0,1200.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,blue green,Superior
 0.0,0,4,0.0,975.0,Mundo Novo,Unknown,Brazil,Unknown,Superior
-0.11,0,2,0.0,1200.0,Bourbon,Natural / Dry,Brazil,Green,Gourmet
-0.12,0,3,0.0,1000.0,Mundo Novo,Semi-washed / Semi-pulped,Brazil,Blue-Green,Superior
-0.12,0,3,0.0,1260.0,Yellow Bourbon,Washed / Wet,Brazil,Blue-Green,Tradicional
+0.11,0,2,0.0,1200.0,Bourbon,Natural / Dry,Brazil,green,Gourmet
+0.12,0,3,0.0,1000.0,Mundo Novo,Semi-washed / Semi-pulped,Brazil,blue green,Superior
+0.12,0,3,0.0,1260.0,Yellow Bourbon,Washed / Wet,Brazil,blue green,Tradicional
 0.0,0,4,0.0,1311.0,Unknown,Unknown,Brazil,Unknown,Gourmet
 0.0,2,0,0.0,1311.0,Unknown,Unknown,Brazil,Unknown,Gourmet
-0.12,0,3,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,Green,Superior
-0.0,0,4,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,Blue-Green,Superior
-0.12,0,2,0.0,1.25,Bourbon,Semi-washed / Semi-pulped,Brazil,Blue-Green,Tradicional
-0.11,0,3,0.0,1311.0,Catuai,Natural / Dry,Brazil,Green,Tradicional
-0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,Bluish-Green,Gourmet
-0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,Ethiopia,Bluish-Green,Gourmet
+0.12,0,3,0.0,1250.0,Yellow Bourbon,Semi-washed / Semi-pulped,Brazil,green,Superior
+0.0,0,4,0.0,1250.0,Bourbon,Semi-washed / Semi-pulped,Brazil,blue green,Superior
+0.12,0,2,0.0,1.25,Bourbon,Semi-washed / Semi-pulped,Brazil,blue green,Tradicional
+0.11,0,3,0.0,1311.0,Catuai,Natural / Dry,Brazil,green,Tradicional
+0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,Brazil,bluish green,Gourmet
+0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,Ethiopia,bluish green,Gourmet
 0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,Ethiopia,Unknown,Tradicional
-0.12,0,0,0.0,1250.0,Other,Washed / Wet,Outros,Blue-Green,Tradicional
-0.11,0,0,0.0,1311.0,Other,Washed / Wet,Peru,Bluish-Green,Gourmet
-0.11,0,0,0.0,2000.0,SL28,Washed / Wet,Kenya,Bluish-Green,Gourmet
-0.11,0,0,0.0,2000.0,SL28,Washed / Wet,Kenya,Blue-Green,Gourmet
-0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,"Tanzania, United Republic Of",Bluish-Green,Gourmet
-0.12,0,0,0.0,1311.0,Caturra,Pulped natural / honey,Thailand,Green,Gourmet
-0.11,0,0,0.0,1500.0,Caturra,Washed / Wet,Thailand,Bluish-Green,Superior
-0.13,0,0,0.0,1200.0,Catimor,Washed / Wet,Thailand,Bluish-Green,Superior
-0.12,0,1,0.0,1450.0,Caturra,Washed / Wet,Thailand,Blue-Green,Superior
+0.12,0,0,0.0,1250.0,Other,Washed / Wet,Outros,blue green,Superior
+0.11,0,0,0.0,1311.0,Other,Washed / Wet,Outros,bluish green,Gourmet
+0.11,0,0,0.0,2000.0,SL28,Washed / Wet,Kenya,bluish green,Gourmet
+0.11,0,0,0.0,2000.0,SL28,Washed / Wet,Kenya,blue green,Gourmet
+0.11,0,1,0.0,1311.0,Unknown,Natural / Dry,"Tanzania, United Republic Of",bluish green,Gourmet
+0.12,0,0,0.0,1311.0,Caturra,Pulped natural / honey,Thailand,green,Gourmet
+0.11,0,0,0.0,1500.0,Caturra,Washed / Wet,Thailand,bluish green,Superior
+0.13,0,0,0.0,1200.0,Catimor,Washed / Wet,Thailand,bluish green,Superior
+0.12,0,1,0.0,1450.0,Caturra,Washed / Wet,Thailand,blue green,Superior
 0.11,0,0,0.0,1450.0,Caturra,Washed / Wet,Thailand,Unknown,Superior
-0.12,0,0,0.0,1450.0,Caturra,Washed / Wet,Thailand,Blue-Green,Tradicional
-0.12,0,0,0.0,1200.0,Catimor,Natural / Dry,Thailand,Green,Gourmet
-0.12,0,0,0.0,170.0,Mundo Novo,Pulped natural / honey,Outros,Green,Gourmet
-0.12,0,6,0.0,1473.0,Bourbon,Washed / Wet,Uganda,Green,Superior
-0.12,0,8,5.0,1645.0,Bourbon,Natural / Dry,Uganda,Green,Superior
-0.12,0,0,0.0,1800.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,3,0.0,1700.0,SL14,Natural / Dry,Uganda,Green,Tradicional
-0.12,0,1,0.0,1600.0,SL14,Washed / Wet,Uganda,Green,Gourmet
-0.11,0,1,0.0,1750.0,SL14,Washed / Wet,Uganda,Green,Gourmet
-0.12,0,0,0.0,1650.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,1,0.0,1650.0,SL14,Natural / Dry,Uganda,Green,Gourmet
-0.12,0,0,0.0,1650.0,SL14,Natural / Dry,Uganda,Green,Superior
-0.12,0,1,0.0,1311.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,0,0.0,1650.0,SL14,Natural / Dry,Uganda,Green,Gourmet
-0.12,0,0,0.0,1650.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.1,0,0,0.0,1800.0,SL14,Washed / Wet,Uganda,Bluish-Green,Superior
-0.12,0,1,0.0,1950.0,SL14,Washed / Wet,Uganda,Green,Gourmet
-0.11,3,1,11.0,1800.0,Gesha,Natural / Dry,Ethiopia,Green,Gourmet
-0.11,0,1,0.0,1800.0,SL14,Washed / Wet,Uganda,Green,Gourmet
-0.11,0,1,0.0,1800.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,5,0.0,1950.0,SL14,Washed / Wet,Uganda,Green,Gourmet
+0.12,0,0,0.0,1450.0,Caturra,Washed / Wet,Thailand,blue green,Tradicional
+0.12,0,0,0.0,1200.0,Catimor,Natural / Dry,Thailand,green,Gourmet
+0.12,0,0,0.0,170.0,Mundo Novo,Pulped natural / honey,Outros,green,Gourmet
+0.12,0,6,0.0,1473.0,Bourbon,Washed / Wet,Uganda,green,Superior
+0.12,0,8,5.0,1645.0,Bourbon,Natural / Dry,Uganda,green,Superior
+0.12,0,0,0.0,1800.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,3,0.0,1700.0,SL14,Natural / Dry,Uganda,green,Tradicional
+0.12,0,1,0.0,1600.0,SL14,Washed / Wet,Uganda,green,Gourmet
+0.11,0,1,0.0,1750.0,SL14,Washed / Wet,Uganda,green,Gourmet
+0.12,0,0,0.0,1650.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,1,0.0,1650.0,SL14,Natural / Dry,Uganda,green,Gourmet
+0.12,0,0,0.0,1650.0,SL14,Natural / Dry,Uganda,green,Superior
+0.12,0,1,0.0,1311.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,0,0.0,1650.0,SL14,Natural / Dry,Uganda,green,Gourmet
+0.12,0,0,0.0,1650.0,SL14,Washed / Wet,Uganda,green,Superior
+0.1,0,0,0.0,1800.0,SL14,Washed / Wet,Uganda,bluish green,Superior
+0.12,0,1,0.0,1950.0,SL14,Washed / Wet,Uganda,green,Gourmet
+0.11,3,1,11.0,1800.0,Gesha,Natural / Dry,Ethiopia,green,Gourmet
+0.11,0,1,0.0,1800.0,SL14,Washed / Wet,Uganda,green,Gourmet
+0.11,0,1,0.0,1800.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,5,0.0,1950.0,SL14,Washed / Wet,Uganda,green,Gourmet
 0.0,0,0,0.0,1311.0,Unknown,Semi-washed / Semi-pulped,Uganda,Unknown,Gourmet
-0.12,0,4,0.0,1400.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,5,0.0,1800.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.12,0,0,0.0,1400.0,Bourbon,Natural / Dry,Uganda,Green,Superior
-0.13,0,0,0.0,1180.0,Gesha,Washed / Wet,Malawi,Blue-Green,Tradicional
-0.11,0,1,0.0,1600.0,Other,Washed / Wet,Uganda,Green,Gourmet
-0.13,0,0,0.0,1556.0,Gesha,Washed / Wet,Malawi,Green,Tradicional
-0.12,0,0,0.0,1442.0,Gesha,Washed / Wet,Malawi,Bluish-Green,Superior
-0.12,0,1,0.0,995.0,Caturra,Washed / Wet,Malawi,Bluish-Green,Tradicional
-0.12,0,0,0.0,1422.0,Gesha,Washed / Wet,Malawi,Bluish-Green,Tradicional
-0.13,0,0,0.0,1100.0,Gesha,Washed / Wet,Malawi,Green,Tradicional
-0.13,0,1,0.0,2500.0,Gesha,Washed / Wet,Malawi,Bluish-Green,Tradicional
-0.1,0,0,0.0,1650.0,Other,Washed / Wet,Uganda,Blue-Green,Gourmet
-0.12,0,12,0.0,995.0,Caturra,Washed / Wet,Malawi,Green,Tradicional
-0.13,4,29,0.0,1700.0,Other,Natural / Dry,Uganda,Green,Gourmet
-0.12,0,0,0.0,1450.0,Gesha,Washed / Wet,Malawi,Green,Tradicional
-0.13,0,1,0.0,1200.0,Gesha,Washed / Wet,Malawi,Green,Tradicional
-0.11,0,3,0.0,1775.0,Other,Washed / Wet,Uganda,Blue-Green,Gourmet
-0.12,0,0,0.0,1599.0,Gesha,Washed / Wet,Malawi,Green,Tradicional
-0.1,10,26,0.0,1700.0,Other,Washed / Wet,Uganda,Green,Gourmet
-0.12,0,6,0.0,1700.0,Other,Semi-washed / Semi-pulped,"Tanzania, United Republic Of",Green,Superior
-0.13,0,20,0.0,1650.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,3,0.0,1350.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,0,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,5,0.0,1311.0,Other,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Tradicional
-0.12,0,4,0.0,1877.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,0,0.0,1500.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.13,0,21,0.0,1400.0,Ruiru 11,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.12,0,2,0.0,1050.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,5,0.0,1800.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,5,0.0,1525.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.13,0,4,0.0,1600.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.12,0,1,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.13,0,5,0.0,1700.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.13,1,6,0.0,1650.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.13,0,6,0.0,1653.0,Other,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Superior
-0.12,0,1,0.0,1400.0,Other,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Tradicional
-0.12,0,0,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.13,0,0,0.0,1400.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Gourmet
-0.12,0,2,0.0,1620.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Gourmet
-0.12,0,2,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Gourmet
-0.13,0,2,0.0,1456.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,2,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Tradicional
-0.12,0,4,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
-0.13,0,5,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.13,0,7,0.0,2285.0,Ruiru 11,Washed / Wet,"Tanzania, United Republic Of",Green,Superior
+0.12,0,4,0.0,1400.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,5,0.0,1800.0,SL14,Washed / Wet,Uganda,green,Superior
+0.12,0,0,0.0,1400.0,Bourbon,Natural / Dry,Uganda,green,Superior
+0.13,0,0,0.0,1180.0,Gesha,Washed / Wet,Outros,blue green,Superior
+0.11,0,1,0.0,1600.0,Other,Washed / Wet,Uganda,green,Gourmet
+0.13,0,0,0.0,1556.0,Gesha,Washed / Wet,Outros,green,Tradicional
+0.12,0,0,0.0,1442.0,Gesha,Washed / Wet,Outros,bluish green,Superior
+0.12,0,1,0.0,995.0,Caturra,Washed / Wet,Outros,bluish green,Tradicional
+0.12,0,0,0.0,1422.0,Gesha,Washed / Wet,Outros,bluish green,Tradicional
+0.13,0,0,0.0,1100.0,Gesha,Washed / Wet,Outros,green,Tradicional
+0.13,0,1,0.0,2500.0,Gesha,Washed / Wet,Outros,bluish green,Superior
+0.1,0,0,0.0,1650.0,Other,Washed / Wet,Uganda,blue green,Gourmet
+0.12,0,12,0.0,995.0,Caturra,Washed / Wet,Outros,green,Tradicional
+0.13,4,29,0.0,1700.0,Other,Natural / Dry,Uganda,green,Gourmet
+0.12,0,0,0.0,1450.0,Gesha,Washed / Wet,Outros,green,Superior
+0.13,0,1,0.0,1200.0,Gesha,Washed / Wet,Outros,green,Tradicional
+0.11,0,3,0.0,1775.0,Other,Washed / Wet,Uganda,blue green,Gourmet
+0.12,0,0,0.0,1599.0,Gesha,Washed / Wet,Outros,green,Tradicional
+0.1,10,26,0.0,1700.0,Other,Washed / Wet,Uganda,green,Gourmet
+0.12,0,6,0.0,1700.0,Other,Semi-washed / Semi-pulped,"Tanzania, United Republic Of",green,Superior
+0.13,0,20,0.0,1650.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,3,0.0,1350.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,0,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,5,0.0,1311.0,Other,Washed / Wet,"Tanzania, United Republic Of",bluish green,Tradicional
+0.12,0,4,0.0,1877.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,0,0.0,1500.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.13,0,21,0.0,1400.0,Outros,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,2,0.0,1050.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,5,0.0,1800.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,5,0.0,1525.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.13,0,4,0.0,1600.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,1,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.13,0,5,0.0,1700.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.13,1,6,0.0,1650.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.13,0,6,0.0,1653.0,Other,Washed / Wet,"Tanzania, United Republic Of",bluish green,Superior
+0.12,0,1,0.0,1400.0,Other,Washed / Wet,"Tanzania, United Republic Of",bluish green,Tradicional
+0.12,0,0,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.13,0,0,0.0,1400.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Gourmet
+0.12,0,2,0.0,1620.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Gourmet
+0.12,0,2,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Gourmet
+0.13,0,2,0.0,1456.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,2,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",bluish green,Tradicional
+0.12,0,4,0.0,1550.0,Bourbon,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.13,0,5,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.13,0,7,0.0,2285.0,Outros,Washed / Wet,"Tanzania, United Republic Of",green,Superior
 0.12,0,1,0.0,1317.0,Other,Washed / Wet,"Tanzania, United Republic Of",Unknown,Superior
-0.12,0,1,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,7,0.0,1620.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Gourmet
-0.12,0,7,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,3,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",Green,Tradicional
-0.12,0,4,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Tradicional
-0.12,0,3,0.0,1311.0,Other,Washed / Wet,"Tanzania, United Republic Of",Bluish-Green,Superior
-0.11,0,3,2.0,1300.0,Unknown,Unknown,Mexico,Green,Superior
-0.11,0,5,0.0,1300.0,Mundo Novo,Washed / Wet,Mexico,Green,Superior
-0.12,1,17,5.0,1100.0,Mundo Novo,Washed / Wet,Mexico,Green,Tradicional
-0.11,0,11,0.0,1100.0,Bourbon,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,0,2.0,1130.0,Unknown,Unknown,Mexico,Green,Tradicional
-0.09,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,Green,Gourmet
-0.11,0,0,0.0,1600.0,Typica,Washed / Wet,Mexico,Blue-Green,Superior
-0.1,0,2,0.0,1600.0,Caturra,Washed / Wet,Mexico,Green,Tradicional
-0.12,0,1,0.0,1800.0,SL34,Washed / Wet,Kenya,Blue-Green,Gourmet
-0.1,0,2,0.0,1800.0,Peaberry,Washed / Wet,Kenya,Bluish-Green,Gourmet
-0.1,0,3,0.0,1754.0,SL28,Washed / Wet,Kenya,Green,Superior
-0.11,0,5,0.0,1754.0,SL34,Washed / Wet,Kenya,Blue-Green,Gourmet
-0.11,0,2,0.0,1754.0,SL28,Natural / Dry,Kenya,Bluish-Green,Gourmet
-0.11,0,3,0.0,1600.0,SL28,Washed / Wet,Kenya,Green,Tradicional
-0.13,0,0,0.0,1800.0,SL34,Washed / Wet,Kenya,Green,Gourmet
-0.11,0,4,0.0,1800.0,SL28,Washed / Wet,Kenya,Green,Gourmet
-0.12,0,0,0.0,1700.0,Unknown,Unknown,Outros,Green,Tradicional
-0.11,0,7,5.0,1311.0,Unknown,Washed / Wet,Kenya,Green,Gourmet
-0.12,0,0,0.0,280.0,Unknown,Unknown,Outros,Green,Tradicional
-0.11,0,0,0.0,1700.0,SL28,Washed / Wet,Kenya,Bluish-Green,Superior
-0.11,0,2,0.0,1800.0,SL28,Washed / Wet,Kenya,Green,Superior
+0.12,0,1,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,7,0.0,1620.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Gourmet
+0.12,0,7,0.0,1700.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Tradicional
+0.12,0,3,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",green,Superior
+0.12,0,4,0.0,1600.0,Other,Washed / Wet,"Tanzania, United Republic Of",bluish green,Tradicional
+0.12,0,3,0.0,1311.0,Other,Washed / Wet,"Tanzania, United Republic Of",bluish green,Superior
+0.11,0,3,2.0,1300.0,Unknown,Unknown,Mexico,green,Superior
+0.11,0,5,0.0,1300.0,Mundo Novo,Washed / Wet,Mexico,green,Superior
+0.12,1,17,5.0,1100.0,Mundo Novo,Washed / Wet,Mexico,green,Tradicional
+0.11,0,11,0.0,1100.0,Bourbon,Washed / Wet,Mexico,green,Tradicional
+0.12,0,0,2.0,1130.0,Unknown,Unknown,Mexico,green,Tradicional
+0.09,0,3,0.0,1300.0,Typica,Washed / Wet,Mexico,green,Gourmet
+0.11,0,0,0.0,1600.0,Typica,Washed / Wet,Mexico,blue green,Superior
+0.1,0,2,0.0,1600.0,Caturra,Washed / Wet,Mexico,green,Tradicional
+0.12,0,1,0.0,1800.0,SL34,Washed / Wet,Kenya,blue green,Gourmet
+0.1,0,2,0.0,1800.0,Outros,Washed / Wet,Kenya,bluish green,Gourmet
+0.1,0,3,0.0,1754.0,SL28,Washed / Wet,Kenya,green,Superior
+0.11,0,5,0.0,1754.0,SL34,Washed / Wet,Kenya,blue green,Gourmet
+0.11,0,2,0.0,1754.0,SL28,Natural / Dry,Kenya,bluish green,Gourmet
+0.11,0,3,0.0,1600.0,SL28,Washed / Wet,Kenya,green,Tradicional
+0.13,0,0,0.0,1800.0,SL34,Washed / Wet,Kenya,green,Gourmet
+0.11,0,4,0.0,1800.0,SL28,Washed / Wet,Kenya,green,Gourmet
+0.12,0,0,0.0,1700.0,Unknown,Unknown,Outros,green,Tradicional
+0.11,0,7,5.0,1311.0,Unknown,Washed / Wet,Kenya,green,Gourmet
+0.12,0,0,0.0,280.0,Unknown,Unknown,Outros,green,Tradicional
+0.11,0,0,0.0,1700.0,SL28,Washed / Wet,Kenya,bluish green,Superior
+0.11,0,2,0.0,1800.0,SL28,Washed / Wet,Kenya,green,Superior
 0.11,0,5,1.0,1500.0,SL34,Washed / Wet,Kenya,Unknown,Tradicional
-0.08,0,0,0.0,1500.0,SL28,Washed / Wet,Kenya,Green,Gourmet
-0.0,0,6,0.0,1200.0,SL34,Washed / Wet,Kenya,Green,Gourmet
-0.0,0,2,0.0,1200.0,SL34,Washed / Wet,Kenya,Green,Gourmet
-0.0,0,0,0.0,1311.0,SL28,Washed / Wet,Kenya,Green,Gourmet
-0.1,0,1,0.0,1500.0,SL28,Washed / Wet,Kenya,Bluish-Green,Superior
-0.0,0,0,0.0,1650.0,SL28,Washed / Wet,Kenya,Bluish-Green,Gourmet
-0.0,0,2,0.0,1600.0,SL34,Washed / Wet,Kenya,Green,Gourmet
-0.0,0,5,0.0,1580.0,SL34,Washed / Wet,Kenya,Green,Gourmet
-0.0,0,8,0.0,1850.0,Ethiopian Yirgacheffe,Natural / Dry,Ethiopia,Unknown,Gourmet
+0.08,0,0,0.0,1500.0,SL28,Washed / Wet,Kenya,green,Gourmet
+0.0,0,6,0.0,1200.0,SL34,Washed / Wet,Kenya,green,Gourmet
+0.0,0,2,0.0,1200.0,SL34,Washed / Wet,Kenya,green,Gourmet
+0.0,0,0,0.0,1311.0,SL28,Washed / Wet,Kenya,green,Gourmet
+0.1,0,1,0.0,1500.0,SL28,Washed / Wet,Kenya,bluish green,Superior
+0.0,0,0,0.0,1650.0,SL28,Washed / Wet,Kenya,bluish green,Gourmet
+0.0,0,2,0.0,1600.0,SL34,Washed / Wet,Kenya,green,Gourmet
+0.0,0,5,0.0,1580.0,SL34,Washed / Wet,Kenya,green,Gourmet
+0.0,0,8,0.0,1850.0,Outros,Natural / Dry,Ethiopia,Unknown,Gourmet
 0.0,0,7,0.0,1850.0,Other,Washed / Wet,Ethiopia,Unknown,Superior
-0.11,1,4,0.0,1680.0,Caturra,Other,Outros,Green,Tradicional
-0.1,0,3,0.0,1900.0,Ethiopian Yirgacheffe,Washed / Wet,Ethiopia,Unknown,Gourmet
+0.11,1,4,0.0,1680.0,Caturra,Other,Outros,green,Tradicional
+0.1,0,3,0.0,1900.0,Outros,Washed / Wet,Ethiopia,Unknown,Gourmet
 0.09,2,2,0.0,1680.0,Caturra,Natural / Dry,Outros,Unknown,Gourmet
-0.09,0,4,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,Blue-Green,Tradicional
+0.09,0,4,0.0,1500.0,Bourbon,Washed / Wet,Guatemala,blue green,Superior
 0.0,0,1,0.0,1600.0,Other,Washed / Wet,Colombia,Unknown,Superior
-0.08,0,1,0.0,1750.0,Other,Other,Costa Rica,Green,Gourmet
-0.11,0,1,0.0,1770.0,Pacamara,Natural / Dry,Guatemala,Green,Gourmet
+0.08,0,1,0.0,1750.0,Other,Other,Costa Rica,green,Gourmet
+0.11,0,1,0.0,1770.0,Outros,Natural / Dry,Guatemala,green,Gourmet
 0.11,2,6,0.0,1300.0,Typica,Other,Indonesia,Unknown,Tradicional
-0.1,0,3,0.0,1900.0,SL28,Natural / Dry,Kenya,Green,Gourmet
-0.09,0,2,0.0,1700.0,Pacamara,Washed / Wet,Guatemala,Bluish-Green,Tradicional
-0.11,0,0,0.0,1100.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.09,0,0,0.0,550.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,200.0,Unknown,Unknown,Taiwan,Blue-Green,Superior
-0.11,0,0,0.0,1240.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.0,0,0,0.0,1311.0,Unknown,Natural / Dry,Taiwan,Blue-Green,Superior
-0.11,0,0,0.0,200.0,Typica,Other,Taiwan,Green,Tradicional
-0.11,0,0,0.0,300.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,700.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.11,0,0,0.0,250.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,200.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.11,0,0,0.0,150.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.11,0,0,0.0,1000.0,Typica,Washed / Wet,Taiwan,Green,Gourmet
+0.1,0,3,0.0,1900.0,SL28,Natural / Dry,Kenya,green,Gourmet
+0.09,0,2,0.0,1700.0,Outros,Washed / Wet,Guatemala,bluish green,Tradicional
+0.11,0,0,0.0,1100.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Tradicional
+0.09,0,0,0.0,550.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,200.0,Unknown,Unknown,Taiwan,blue green,Superior
+0.11,0,0,0.0,1240.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.0,0,0,0.0,1311.0,Unknown,Natural / Dry,Taiwan,blue green,Superior
+0.11,0,0,0.0,200.0,Typica,Other,Taiwan,green,Tradicional
+0.11,0,0,0.0,300.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,700.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Tradicional
+0.11,0,0,0.0,250.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,200.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Superior
+0.11,0,0,0.0,150.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Tradicional
+0.11,0,0,0.0,1000.0,Typica,Washed / Wet,Taiwan,green,Gourmet
 0.11,0,0,0.0,900.0,Typica,Washed / Wet,Taiwan,Unknown,Tradicional
-0.11,0,0,0.0,250.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.1,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,Blue-Green,Tradicional
-0.0,0,0,0.0,200.0,Other,Washed / Wet,Taiwan,Blue-Green,Tradicional
-0.11,0,0,0.0,750.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,1000.0,Typica,Other,Taiwan,Green,Tradicional
-0.12,0,0,0.0,110.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
+0.11,0,0,0.0,250.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Tradicional
+0.1,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,blue green,Superior
+0.0,0,0,0.0,200.0,Other,Washed / Wet,Taiwan,blue green,Tradicional
+0.11,0,0,0.0,750.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,1000.0,Typica,Other,Taiwan,green,Tradicional
+0.12,0,0,0.0,110.0,Typica,Washed / Wet,Taiwan,green,Tradicional
 0.0,0,0,0.0,1200.0,Unknown,Unknown,Taiwan,Unknown,Superior
-0.12,0,2,0.0,180.0,Typica,Natural / Dry,Taiwan,Green,Tradicional
-0.0,0,0,0.0,50.0,Other,Natural / Dry,Taiwan,Blue-Green,Tradicional
-0.11,0,0,0.0,150.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,1000.0,Typica,Other,Taiwan,Green,Superior
-0.0,0,0,0.0,1300.0,Catimor,Washed / Wet,Outros,Green,Tradicional
-0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.08,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.14,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,650.0,Typica,Semi-washed / Semi-pulped,Taiwan,Green,Tradicional
-0.11,0,0,0.0,600.0,Typica,Other,Taiwan,Green,Tradicional
-0.07,0,0,0.0,850.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,688.0,Typica,Other,Taiwan,Green,Tradicional
-0.11,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,Blue-Green,Superior
-0.11,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,Blue-Green,Superior
-0.11,0,0,0.0,600.0,Yellow Bourbon,Other,Taiwan,Green,Tradicional
-0.11,0,0,0.0,1200.0,Typica,Other,Taiwan,Green,Tradicional
+0.12,0,2,0.0,180.0,Typica,Natural / Dry,Taiwan,green,Tradicional
+0.0,0,0,0.0,50.0,Other,Natural / Dry,Taiwan,blue green,Tradicional
+0.11,0,0,0.0,150.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,1000.0,Typica,Other,Taiwan,green,Superior
+0.0,0,0,0.0,1300.0,Catimor,Washed / Wet,Outros,green,Tradicional
+0.1,0,0,0.0,800.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.08,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.14,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,650.0,Typica,Semi-washed / Semi-pulped,Taiwan,green,Tradicional
+0.11,0,0,0.0,600.0,Typica,Other,Taiwan,green,Tradicional
+0.07,0,0,0.0,850.0,Typica,Washed / Wet,Taiwan,green,Tradicional
+0.11,0,0,0.0,688.0,Typica,Other,Taiwan,green,Tradicional
+0.11,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,blue green,Superior
+0.11,0,0,0.0,1311.0,Unknown,Unknown,Taiwan,blue green,Superior
+0.11,0,0,0.0,600.0,Yellow Bourbon,Other,Taiwan,green,Tradicional
+0.11,0,0,0.0,1200.0,Typica,Other,Taiwan,green,Superior
 0.0,0,1,0.0,700.0,Typica,Natural / Dry,Taiwan,Unknown,Tradicional
-0.11,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
-0.11,0,0,0.0,650.0,Typica,Washed / Wet,Taiwan,Green,Tradicional
+0.11,0,0,0.0,600.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.11,0,0,0.0,650.0,Typica,Washed / Wet,Taiwan,green,Superior
 0.11,0,0,0.0,1300.0,Typica,Other,Taiwan,Unknown,Superior
-0.0,1,20,0.0,2000.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Bluish-Green,Superior
-0.06,0,0,0.0,950.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.0,0,1,0.0,1311.0,Typica,Other,Taiwan,Green,Tradicional
-0.0,0,9,0.0,775.0,Typica,Natural / Dry,Taiwan,Green,Superior
-0.08,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.13,0,0,0.0,1300.0,Catimor,Washed / Wet,Outros,Bluish-Green,Superior
-0.13,31,47,0.0,1300.0,Typica,Natural / Dry,Mexico,Green,Tradicional
-0.1,0,1,0.0,1400.0,Catimor,Natural / Dry,China,Green,Gourmet
-0.11,0,0,0.0,1200.0,Catimor,Washed / Wet,China,Green,Superior
-0.12,0,2,6.0,1580.0,Catimor,Pulped natural / honey,China,Green,Tradicional
-0.1,0,1,0.0,1680.0,Catimor,Washed / Wet,China,Green,Gourmet
-0.1,0,3,0.0,1600.0,Catimor,Washed / Wet,China,Green,Superior
-0.1,0,0,0.0,1100.0,Catimor,Natural / Dry,China,Green,Superior
-0.1,0,0,0.0,1600.0,Catimor,Washed / Wet,China,Green,Superior
-0.11,0,2,0.0,1500.0,Catimor,Washed / Wet,China,Green,Superior
-0.1,0,2,1.0,1650.0,Catimor,Washed / Wet,China,Green,Superior
-0.1,0,4,1.0,1100.0,Catimor,Washed / Wet,China,Green,Superior
-0.1,0,0,0.0,1700.0,Catimor,Natural / Dry,China,Green,Gourmet
-0.1,0,0,0.0,1450.0,Catimor,Washed / Wet,China,Green,Gourmet
+0.0,1,20,0.0,2000.0,Outros,Washed / Wet,Ethiopia,bluish green,Superior
+0.06,0,0,0.0,950.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.0,0,1,0.0,1311.0,Typica,Other,Taiwan,green,Tradicional
+0.0,0,9,0.0,775.0,Typica,Natural / Dry,Taiwan,green,Superior
+0.08,0,0,0.0,1200.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.13,0,0,0.0,1300.0,Catimor,Washed / Wet,Outros,bluish green,Superior
+0.13,31,47,0.0,1300.0,Typica,Natural / Dry,Mexico,green,Tradicional
+0.1,0,1,0.0,1400.0,Catimor,Natural / Dry,China,green,Gourmet
+0.11,0,0,0.0,1200.0,Catimor,Washed / Wet,China,green,Superior
+0.12,0,2,6.0,1580.0,Catimor,Pulped natural / honey,China,green,Superior
+0.1,0,1,0.0,1680.0,Catimor,Washed / Wet,China,green,Gourmet
+0.1,0,3,0.0,1600.0,Catimor,Washed / Wet,China,green,Superior
+0.1,0,0,0.0,1100.0,Catimor,Natural / Dry,China,green,Superior
+0.1,0,0,0.0,1600.0,Catimor,Washed / Wet,China,green,Superior
+0.11,0,2,0.0,1500.0,Catimor,Washed / Wet,China,green,Superior
+0.1,0,2,1.0,1650.0,Catimor,Washed / Wet,China,green,Superior
+0.1,0,4,1.0,1100.0,Catimor,Washed / Wet,China,green,Superior
+0.1,0,0,0.0,1700.0,Catimor,Natural / Dry,China,green,Gourmet
+0.1,0,0,0.0,1450.0,Catimor,Washed / Wet,China,green,Gourmet
 0.11,0,1,0.0,1311.0,Other,Washed / Wet,Nicaragua,Unknown,Tradicional
-0.12,0,6,0.0,1050.0,Caturra,Natural / Dry,Nicaragua,Green,Tradicional
-0.11,1,1,0.0,1311.0,Unknown,Natural / Dry,Nicaragua,Green,Tradicional
+0.12,0,6,0.0,1050.0,Caturra,Natural / Dry,Nicaragua,green,Tradicional
+0.11,1,1,0.0,1311.0,Unknown,Natural / Dry,Nicaragua,green,Tradicional
 0.11,0,2,0.0,1187.5,Caturra,Washed / Wet,Nicaragua,Unknown,Tradicional
-0.11,0,2,0.0,900.0,Caturra,Washed / Wet,Nicaragua,Green,Tradicional
-0.11,0,0,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,Green,Tradicional
-0.12,0,5,0.0,1100.0,Other,Washed / Wet,Nicaragua,Green,Tradicional
-0.1,0,4,0.0,1100.0,Catuai,Washed / Wet,Nicaragua,Green,Tradicional
-0.108,0,2,0.0,150.0,unknown,Pulped natural / honey,Taiwan,Greenish,Gourmet
-0.0819999999999999,0,1,0.0,500.0,unknown,Washed / Wet,Taiwan,Green,Tradicional
-0.081,0,3,0.0,460.0,unknown,Pulped natural / honey,Taiwan,Greenish,Tradicional
-0.096,0,1,0.0,1150.0,unknown,Washed / Wet,Taiwan,Green,Superior
-0.098,0,0,0.0,165.0,unknow,Natural / Dry,Taiwan,Green,Superior
-0.084,0,2,0.0,139.0,unknown,Washed / Wet,Taiwan,Green,Superior
-0.113,0,0,0.0,300.0,Typica,Pulped natural / honey,Taiwan,Green,Tradicional
-0.0969999999999999,0,0,0.0,600.0,unknown,Washed / Wet,Taiwan,Bluish-Green,Tradicional
-0.0969999999999999,0,0,0.0,230.0,Yellow Bourbon,Natural / Dry,Taiwan,Brownish,Gourmet
-0.113,0,0,0.0,520.0,unknown,Pulped natural / honey,Taiwan,Bluish-Green,Gourmet
-0.09,0,0,0.0,300.0,Typica,Pulped natural / honey,Taiwan,Yellow-green,Tradicional
-0.095,0,2,0.0,375.0,Typica,Washed / Wet,Taiwan,Green,Gourmet
-0.084,0,0,0.0,325.0,unknown,Natural / Dry,Taiwan,Green,Superior
-0.092,0,0,0.0,300.0,unknown,Pulped natural / honey,Taiwan,Greenish,Superior
-0.091,0,0,0.0,275.0,Typica,Pulped natural / honey,Taiwan,Green,Superior
-0.118,0,0,0.0,340.0,unknown,Washed / Wet,Taiwan,Blue-Green,Superior
-0.108,0,1,0.0,140.0,unknown,Natural / Dry,Taiwan,Green,Tradicional
-0.0969999999999999,0,2,0.0,250.0,Typica,Natural / Dry,Taiwan,Greenish,Superior
-0.096,0,0,0.0,250.0,Typica,Pulped natural / honey,Taiwan,Greenish,Gourmet
-0.0969999999999999,0,0,0.0,250.0,Typica,Pulped natural / honey,Taiwan,Greenish,Superior
-0.096,0,1,0.0,300.0,Typica,Washed / Wet,Taiwan,Green,Superior
-0.085,0,0,0.0,435.0,unknown,Pulped natural / honey,Taiwan,Green,Tradicional
-0.1,0,5,0.0,800.0,Gesha,Washed / Wet,Taiwan,Pale Yellow,Gourmet
-0.084,0,2,0.0,465.0,Caturra,Washed / Wet,Taiwan,Blue-Green,Superior
-0.089,0,0,0.0,275.0,Typica,Pulped natural / honey,Taiwan,Blue-Green,Superior
-0.119,0,0,0.0,1250.0,Gesha,Washed / Wet,Taiwan,Green,Gourmet
-0.102,0,0,0.0,400.0,Typica,Natural / Dry,Taiwan,Green,Gourmet
-0.1119999999999999,0,2,0.0,1250.0,Gesha,Washed / Wet,Taiwan,Green,Gourmet
-0.106,0,1,0.0,1800.0,Bourbon Sidra,Pulped natural / honey,Colombia,greenish,Superior
-0.106,0,0,0.0,1850.0,Caturra,Washed / Wet,Colombia,Green,Gourmet
-0.102,0,1,1.0,1400.0,"Catimor,Catuai,Caturra,Bourbon",Natural / Dry,Outros,Pale Yellow,Superior
-0.1009999999999999,0,0,0.0,1100.0,Typica + SL34,Washed / Wet,Taiwan,Blue-Green,Superior
-0.094,0,0,0.0,1800.0,Typica,Pulped natural / honey,Honduras,Green,Gourmet
-0.103,0,1,0.0,1400.0,Caturra,Washed / Wet,Guatemala,Greenish,Tradicional
-0.115,0,0,0.0,700.0,Gesha,Pulped natural / honey,Taiwan,Green,Gourmet
-0.1119999999999999,0,0,0.0,1574.0,Santander,Washed / Wet,Colombia,yellow-green,Tradicional
-0.111,0,0,0.0,950.0,Catucai,Natural / Dry,Brazil,yellow-green,Tradicional
-0.114,0,0,0.0,1275.0,Caturra-Catuai,Washed / Wet,Nicaragua,Bluish-Green,Superior
-0.114,0,0,0.0,1302.5,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,Guatemala,Green,Superior
-0.107,0,0,0.0,1340.0,Pacamara,Washed / Wet,Mexico,pale yellow,Superior
+0.11,0,2,0.0,900.0,Caturra,Washed / Wet,Nicaragua,green,Tradicional
+0.11,0,0,0.0,1250.0,Caturra,Washed / Wet,Nicaragua,green,Tradicional
+0.12,0,5,0.0,1100.0,Other,Washed / Wet,Nicaragua,green,Tradicional
+0.1,0,4,0.0,1100.0,Catuai,Washed / Wet,Nicaragua,green,Tradicional
+0.108,0,2,0.0,150.0,Outros,Pulped natural / honey,Taiwan,greenish,Gourmet
+0.0819999999999999,0,1,0.0,500.0,Outros,Washed / Wet,Taiwan,green,Superior
+0.081,0,3,0.0,460.0,Outros,Pulped natural / honey,Taiwan,greenish,Superior
+0.096,0,1,0.0,1150.0,Outros,Washed / Wet,Taiwan,green,Superior
+0.098,0,0,0.0,165.0,Outros,Natural / Dry,Taiwan,green,Superior
+0.084,0,2,0.0,139.0,Outros,Washed / Wet,Taiwan,green,Superior
+0.113,0,0,0.0,300.0,Typica,Pulped natural / honey,Taiwan,green,Tradicional
+0.0969999999999999,0,0,0.0,600.0,Outros,Washed / Wet,Taiwan,bluish green,Superior
+0.0969999999999999,0,0,0.0,230.0,Yellow Bourbon,Natural / Dry,Taiwan,brownish,Gourmet
+0.113,0,0,0.0,520.0,Outros,Pulped natural / honey,Taiwan,bluish green,Gourmet
+0.09,0,0,0.0,300.0,Typica,Pulped natural / honey,Taiwan,yellow green,Tradicional
+0.095,0,2,0.0,375.0,Typica,Washed / Wet,Taiwan,green,Gourmet
+0.084,0,0,0.0,325.0,Outros,Natural / Dry,Taiwan,green,Superior
+0.092,0,0,0.0,300.0,Outros,Pulped natural / honey,Taiwan,greenish,Superior
+0.091,0,0,0.0,275.0,Typica,Pulped natural / honey,Taiwan,green,Superior
+0.118,0,0,0.0,340.0,Outros,Washed / Wet,Taiwan,blue green,Superior
+0.108,0,1,0.0,140.0,Outros,Natural / Dry,Taiwan,green,Superior
+0.0969999999999999,0,2,0.0,250.0,Typica,Natural / Dry,Taiwan,greenish,Superior
+0.096,0,0,0.0,250.0,Typica,Pulped natural / honey,Taiwan,greenish,Gourmet
+0.0969999999999999,0,0,0.0,250.0,Typica,Pulped natural / honey,Taiwan,greenish,Superior
+0.096,0,1,0.0,300.0,Typica,Washed / Wet,Taiwan,green,Superior
+0.085,0,0,0.0,435.0,Outros,Pulped natural / honey,Taiwan,green,Tradicional
+0.1,0,5,0.0,800.0,Gesha,Washed / Wet,Taiwan,pale yellow,Gourmet
+0.084,0,2,0.0,465.0,Caturra,Washed / Wet,Taiwan,blue green,Superior
+0.089,0,0,0.0,275.0,Typica,Pulped natural / honey,Taiwan,blue green,Superior
+0.119,0,0,0.0,1250.0,Gesha,Washed / Wet,Taiwan,green,Gourmet
+0.102,0,0,0.0,400.0,Typica,Natural / Dry,Taiwan,green,Gourmet
+0.1119999999999999,0,2,0.0,1250.0,Gesha,Washed / Wet,Taiwan,green,Gourmet
+0.106,0,1,0.0,1800.0,Outros,Pulped natural / honey,Colombia,greenish,Superior
+0.106,0,0,0.0,1850.0,Caturra,Washed / Wet,Colombia,green,Gourmet
+0.102,0,1,1.0,1400.0,Outros,Natural / Dry,Outros,pale yellow,Superior
+0.1009999999999999,0,0,0.0,1100.0,Outros,Washed / Wet,Taiwan,blue green,Superior
+0.094,0,0,0.0,1800.0,Typica,Pulped natural / honey,Honduras,green,Gourmet
+0.103,0,1,0.0,1400.0,Caturra,Washed / Wet,Guatemala,greenish,Tradicional
+0.115,0,0,0.0,700.0,Gesha,Pulped natural / honey,Taiwan,green,Gourmet
+0.1119999999999999,0,0,0.0,1574.0,Outros,Washed / Wet,Colombia,yellow green,Tradicional
+0.111,0,0,0.0,950.0,Outros,Natural / Dry,Brazil,yellow green,Tradicional
+0.114,0,0,0.0,1275.0,Outros,Washed / Wet,Nicaragua,bluish green,Superior
+0.114,0,0,0.0,1302.5,Outros,Washed / Wet,Guatemala,green,Superior
+0.107,0,0,0.0,1340.0,Outros,Washed / Wet,Mexico,pale yellow,Superior
 0.115,0,1,0.0,2000.0,Gesha,Natural / Dry,Guatemala,brownish,Gourmet
-0.105,0,5,0.0,1400.0,Typica Bourbon Caturra Catimor,Natural / Dry,Thailand,yellowish,Tradicional
-0.1,0,0,0.0,1200.0,Yellow Bourbon,Pulped natural / honey,Taiwan,Blue-Green,Gourmet
+0.105,0,5,0.0,1400.0,Outros,Natural / Dry,Thailand,yellowish,Tradicional
+0.1,0,0,0.0,1200.0,Yellow Bourbon,Pulped natural / honey,Taiwan,blue green,Gourmet
 0.105,0,0,0.0,1000.0,Typica,Washed / Wet,Taiwan,greenish,Gourmet
-0.104,0,0,0.0,850.0,Typica,Natural / Dry,Taiwan,Green,Gourmet
-0.095,0,0,0.0,1200.0,Gesha,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.106,0,0,0.0,1200.0,Gesha,Natural / Dry,Taiwan,Green,Gourmet
-0.114,0,0,0.0,200.0,Typica,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.108,0,0,0.0,200.0,Typica,Washed / Wet,Taiwan,Green,Gourmet
-0.109,0,0,0.0,150.0,Typica,Unknown,Taiwan,Green,Gourmet
-0.107,0,1,0.0,750.0,SL34,Washed / Wet,Taiwan,Blue-Green,Superior
-0.091,0,2,0.0,1300.0,Gesha,Natural / Dry,Taiwan,Green,Gourmet
+0.104,0,0,0.0,850.0,Typica,Natural / Dry,Taiwan,green,Gourmet
+0.095,0,0,0.0,1200.0,Gesha,Washed / Wet,Taiwan,bluish green,Gourmet
+0.106,0,0,0.0,1200.0,Gesha,Natural / Dry,Taiwan,green,Gourmet
+0.114,0,0,0.0,200.0,Typica,Washed / Wet,Taiwan,bluish green,Gourmet
+0.108,0,0,0.0,200.0,Typica,Washed / Wet,Taiwan,green,Gourmet
+0.109,0,0,0.0,150.0,Typica,Unknown,Taiwan,green,Gourmet
+0.107,0,1,0.0,750.0,SL34,Washed / Wet,Taiwan,blue green,Superior
+0.091,0,2,0.0,1300.0,Gesha,Natural / Dry,Taiwan,green,Gourmet
 0.1159999999999999,0,0,0.0,1900.0,Gesha,Natural / Dry,Guatemala,yellowish,Gourmet
-0.113,0,0,0.0,650.0,Gesha,Pulped natural / honey,Taiwan,Green,Gourmet
-0.118,0,3,3.0,500.0,Typica,Washed / Wet,United States (Hawaii),Green,Superior
+0.113,0,0,0.0,650.0,Gesha,Pulped natural / honey,Taiwan,green,Gourmet
+0.118,0,3,3.0,500.0,Typica,Washed / Wet,United States (Hawaii),green,Superior
 0.095,0,0,0.0,1300.0,SL34,Natural / Dry,Taiwan,greenish,Gourmet
-0.1159999999999999,0,0,0.0,650.0,Catimor,Natural / Dry,Vietnam,brownish,Gourmet
-0.107,0,2,0.0,1668.0,Gesha,Washed / Wet,Guatemala,Green,Gourmet
-0.1169999999999999,0,1,0.0,640.0,Maragogype,Washed / Wet,United States (Hawaii),Blue-Green,Superior
+0.1159999999999999,0,0,0.0,650.0,Catimor,Natural / Dry,Outros,brownish,Gourmet
+0.107,0,2,0.0,1668.0,Gesha,Washed / Wet,Guatemala,green,Gourmet
+0.1169999999999999,0,1,0.0,640.0,Outros,Washed / Wet,United States (Hawaii),blue green,Superior
 0.118,0,1,0.0,1450.0,SL28,Pulped natural / honey,Costa Rica,pale yellow,Superior
-0.1009999999999999,0,1,0.0,850.0,Gesha,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.107,0,0,0.0,1750.0,Gesha,Washed / Wet,Peru,greenish,Gourmet
-0.091,0,0,0.0,1250.0,Gesha,Washed / Wet,Taiwan,Green,Gourmet
-0.106,0,0,0.0,800.0,Gesha,Natural / Dry,Taiwan,yello-green,Gourmet
-0.104,0,2,0.0,1300.0,Java,Semi Washed,Outros,yellowish,Gourmet
-0.1009999999999999,3,7,0.0,1300.0,Catuai,Washed / Wet,United States (Hawaii),Yellow-green,Gourmet
-0.102,0,0,0.0,1060.0,Gesha,Natural / Dry,Taiwan,Blue-Green,Gourmet
-0.105,0,3,0.0,1600.0,Lempira,Washed / Wet,Honduras,Bluish-Green,Superior
-0.104,0,0,0.0,1400.0,SL34,Washed / Wet,Taiwan,Green,Gourmet
-0.105,0,0,0.0,1200.0,Gesha,Washed / Wet,Taiwan,Blue-Green,Gourmet
-0.113,0,0,0.0,668.0,Gesha,Washed / Wet,Taiwan,Green,Gourmet
-0.103,0,4,0.0,1500.0,Pacamara,Pulped natural / honey,El Salvador,brownish,Gourmet
-0.103,0,0,0.0,1450.0,SL34,Natural / Dry,Taiwan,Green,Gourmet
-0.093,0,0,0.0,600.0,Typica,Washed / Wet,United States (Hawaii),Green,Gourmet
+0.1009999999999999,0,1,0.0,850.0,Gesha,Washed / Wet,Taiwan,bluish green,Gourmet
+0.107,0,0,0.0,1750.0,Gesha,Washed / Wet,Outros,greenish,Gourmet
+0.091,0,0,0.0,1250.0,Gesha,Washed / Wet,Taiwan,green,Gourmet
+0.106,0,0,0.0,800.0,Gesha,Natural / Dry,Taiwan,yellow green,Gourmet
+0.104,0,2,0.0,1300.0,Outros,Semi Washed,Outros,yellowish,Gourmet
+0.1009999999999999,3,7,0.0,1300.0,Catuai,Washed / Wet,United States (Hawaii),yellow green,Gourmet
+0.102,0,0,0.0,1060.0,Gesha,Natural / Dry,Taiwan,blue green,Gourmet
+0.105,0,3,0.0,1600.0,Outros,Washed / Wet,Honduras,bluish green,Superior
+0.104,0,0,0.0,1400.0,SL34,Washed / Wet,Taiwan,green,Gourmet
+0.105,0,0,0.0,1200.0,Gesha,Washed / Wet,Taiwan,blue green,Gourmet
+0.113,0,0,0.0,668.0,Gesha,Washed / Wet,Taiwan,green,Gourmet
+0.103,0,4,0.0,1500.0,Outros,Pulped natural / honey,El Salvador,brownish,Gourmet
+0.103,0,0,0.0,1450.0,SL34,Natural / Dry,Taiwan,green,Gourmet
+0.093,0,0,0.0,600.0,Typica,Washed / Wet,United States (Hawaii),green,Gourmet
 0.119,0,0,0.0,1900.0,Gesha,Natural / Dry,Guatemala,greenish,Superior
-0.102,0,0,0.0,1100.0,SL34,Pulped natural / honey,Taiwan,Green,Gourmet
+0.102,0,0,0.0,1100.0,SL34,Pulped natural / honey,Taiwan,green,Gourmet
 0.1009999999999999,0,0,0.0,800.0,Gesha,Natural / Dry,Taiwan,yellow green,Gourmet
-0.1,0,1,0.0,1200.0,Sl34+Gesha,Natural / Dry,Taiwan,yellow green,Gourmet
-0.106,0,0,0.0,1250.0,SL34,Washed / Wet,Taiwan,Bluish-Green,Gourmet
-0.1,0,0,0.0,400.0,Typica,Natural / Dry,Taiwan,Brownish,Gourmet
-0.111,0,1,2.0,1470.0,Parainema,Natural / Dry,Honduras,pale yellow,Superior
-0.106,1,5,0.0,1200.0,Typica,Washed / Wet,United States (Hawaii),Green,Tradicional
+0.1,0,1,0.0,1200.0,Outros,Natural / Dry,Taiwan,yellow green,Gourmet
+0.106,0,0,0.0,1250.0,SL34,Washed / Wet,Taiwan,bluish green,Gourmet
+0.1,0,0,0.0,400.0,Typica,Natural / Dry,Taiwan,brownish,Gourmet
+0.111,0,1,2.0,1470.0,Outros,Natural / Dry,Honduras,pale yellow,Superior
+0.106,1,5,0.0,1200.0,Typica,Washed / Wet,United States (Hawaii),green,Superior
 0.108,0,0,0.0,1250.0,SL34,Washed / Wet,Taiwan,greenish,Gourmet
 0.135,0,0,0.0,1100.0,Caturra,Washed / Wet,Colombia,greenish,Superior
-0.098,0,5,0.0,1600.0,Catimor,Pulped natural / honey,Thailand,Browish-Green,Gourmet
-0.118,0,5,0.0,1400.0,Gayo,Washed / Wet,Thailand,Yellow-Green,Superior
-0.131,0,0,0.0,1390.0,Bourbon,Washed / Wet,Thailand,Green,Superior
-0.123,0,16,0.0,1400.0,Typica,Washed / Wet,Thailand,Yellow-Green,Superior
-0.104,0,0,0.0,700.0,Catimor,Washed / Wet,Thailand,Green,Tradicional
-0.1159999999999999,2,1,0.0,1400.0,Java,Washed / Wet,Thailand,Green,Tradicional
-0.13,1,0,0.0,1390.0,Caturra,Washed / Wet,Thailand,Greenish,Superior
-0.098,0,0,0.0,1000.0,Catimor,Washed / Wet,Thailand,Green,Tradicional
-0.115,0,3,0.0,1806.0,SL14,Washed / Wet,Uganda,Green,Tradicional
-0.1009999999999999,0,3,0.0,1650.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.11,0,1,0.0,1905.0,SL14,Washed / Wet,Uganda,Green,Gourmet
-0.111,0,5,0.0,1905.0,SL14,Washed / Wet,Uganda,Green,Superior
-0.1009999999999999,0,0,0.0,1350.0,Parainema,Washed / Wet,Nicaragua,Green,Superior
-0.099,1,2,0.0,1350.0,Catrenic,Natural / Dry,Nicaragua,Green,Gourmet
-0.133,0,4,0.0,900.0,Catimor,Pulped natural / honey,Vietnam,Green,Superior
-0.105,0,0,0.0,1040.0,Catimor,Washed / Wet,Vietnam,Bluish-Green,Tradicional
-0.1119999999999999,0,5,0.0,1000.0,Sarchimor,Washed / Wet,Nicaragua,Green,Tradicional
-0.104,0,12,2.0,1200.0,SHG,Natural / Dry,Nicaragua,Green,Tradicional
-0.105,5,1,2.0,1200.0,SHG,Natural / Dry,Nicaragua,Green,Superior
-0.1119999999999999,0,0,0.0,1200.0,"Bourbon, Catimor, Caturra, Typica",Natural / Dry,Thailand,Yellow Green,Superior
-0.1169999999999999,4,12,0.0,1200.0,Sarchimor,Washed / Wet,Mexico,Green,Superior
-0.118,2,2,0.0,1200.0,Typica,Washed / Wet,Mexico,Green,Tradicional
-0.119,2,1,0.0,1350.0,Bourbon,Washed / Wet,Mexico,Green,Superior
-0.113,1,1,1.0,1800.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Green,Gourmet
-0.118,0,1,1.0,2000.0,Ethiopian Heirlooms,Natural / Dry,Ethiopia,greenish,Gourmet
-0.1159999999999999,0,11,9.0,1300.0,Catimor,Washed / Wet,Outros,Green,Tradicional
+0.098,0,5,0.0,1600.0,Catimor,Pulped natural / honey,Thailand,brownish green,Gourmet
+0.118,0,5,0.0,1400.0,Outros,Washed / Wet,Thailand,yellow green,Superior
+0.131,0,0,0.0,1390.0,Bourbon,Washed / Wet,Thailand,green,Superior
+0.123,0,16,0.0,1400.0,Typica,Washed / Wet,Thailand,yellow green,Superior
+0.104,0,0,0.0,700.0,Catimor,Washed / Wet,Thailand,green,Tradicional
+0.1159999999999999,2,1,0.0,1400.0,Outros,Washed / Wet,Thailand,green,Tradicional
+0.13,1,0,0.0,1390.0,Caturra,Washed / Wet,Thailand,greenish,Superior
+0.098,0,0,0.0,1000.0,Catimor,Washed / Wet,Thailand,green,Superior
+0.115,0,3,0.0,1806.0,SL14,Washed / Wet,Uganda,green,Tradicional
+0.1009999999999999,0,3,0.0,1650.0,SL14,Washed / Wet,Uganda,green,Superior
+0.11,0,1,0.0,1905.0,SL14,Washed / Wet,Uganda,green,Gourmet
+0.111,0,5,0.0,1905.0,SL14,Washed / Wet,Uganda,green,Superior
+0.1009999999999999,0,0,0.0,1350.0,Outros,Washed / Wet,Nicaragua,green,Superior
+0.099,1,2,0.0,1350.0,Outros,Natural / Dry,Nicaragua,green,Gourmet
+0.133,0,4,0.0,900.0,Catimor,Pulped natural / honey,Outros,green,Superior
+0.105,0,0,0.0,1040.0,Catimor,Washed / Wet,Outros,bluish green,Superior
+0.1119999999999999,0,5,0.0,1000.0,Outros,Washed / Wet,Nicaragua,green,Tradicional
+0.104,0,12,2.0,1200.0,Outros,Natural / Dry,Nicaragua,green,Tradicional
+0.105,5,1,2.0,1200.0,Outros,Natural / Dry,Nicaragua,green,Superior
+0.1119999999999999,0,0,0.0,1200.0,Outros,Natural / Dry,Thailand,yellow green,Superior
+0.1169999999999999,4,12,0.0,1200.0,Outros,Washed / Wet,Mexico,green,Superior
+0.118,2,2,0.0,1200.0,Typica,Washed / Wet,Mexico,green,Tradicional
+0.119,2,1,0.0,1350.0,Bourbon,Washed / Wet,Mexico,green,Superior
+0.113,1,1,1.0,1800.0,Outros,Washed / Wet,Ethiopia,green,Gourmet
+0.118,0,1,1.0,2000.0,Outros,Natural / Dry,Ethiopia,greenish,Gourmet
+0.1159999999999999,0,11,9.0,1300.0,Catimor,Washed / Wet,Outros,green,Tradicional
 0.106,0,1,2.0,1200.0,Unknown,Natural / Dry,Brazil,greenish,Tradicional
-0.1159999999999999,0,2,1.0,1200.0,Catuai and Mundo Novo,Natural / Dry,Brazil,greenish,Tradicional
-0.119,0,1,1.0,1411.0,Unknown,Washed / Wet,Colombia,Green,Superior
-0.115,0,2,1.0,1450.0,Unknown,Washed / Wet,Guatemala,Blue-Green,Tradicional
-0.1119999999999999,0,5,1.0,1100.0,Yellow Bourbon,Double Carbonic Maceration / Natural,Brazil,Green,Gourmet
+0.1159999999999999,0,2,1.0,1200.0,Outros,Natural / Dry,Brazil,greenish,Tradicional
+0.119,0,1,1.0,1411.0,Unknown,Washed / Wet,Colombia,green,Superior
+0.115,0,2,1.0,1450.0,Unknown,Washed / Wet,Guatemala,blue green,Superior
+0.1119999999999999,0,5,1.0,1100.0,Yellow Bourbon,Double Carbonic Maceration / Natural,Brazil,green,Gourmet
 0.115,0,3,1.0,1100.0,Caturra,Washed / Wet,Nicaragua,greenish,Tradicional
 0.119,0,0,1.0,1444.0,Typica,Pulped natural / honey,Outros,greenish,Superior
-0.118,0,2,1.0,1700.0,Caturra,Washed / Wet,Colombia,Green,Superior
-0.118,0,11,6.0,1600.0,Caturra,Washed / Wet,Peru,greenish,Tradicional
-0.1169999999999999,0,3,1.0,1600.0,Caturra,Washed / Wet,Peru,greenish,Tradicional
-0.1159999999999999,0,2,2.0,1600.0,Caturra,Washed / Wet,Peru,greenish,Tradicional
-0.115,0,1,1.0,1300.0,"Jember,TIM-TIM,Ateng",Wet Hulling,Indonesia,Blue-Green,Gourmet
-0.1169999999999999,0,0,1.0,1900.0,Gesha,Washed / Wet,Costa Rica,Green,Gourmet
-0.113,0,2,0.0,1000.0,Yellow Catuai,Pulped natural / honey,Brazil,Pale Yellow,Tradicional
+0.118,0,2,1.0,1700.0,Caturra,Washed / Wet,Colombia,green,Superior
+0.118,0,11,6.0,1600.0,Caturra,Washed / Wet,Outros,greenish,Tradicional
+0.1169999999999999,0,3,1.0,1600.0,Caturra,Washed / Wet,Outros,greenish,Superior
+0.1159999999999999,0,2,2.0,1600.0,Caturra,Washed / Wet,Outros,greenish,Tradicional
+0.115,0,1,1.0,1300.0,Outros,Wet Hulling,Indonesia,blue green,Gourmet
+0.1169999999999999,0,0,1.0,1900.0,Gesha,Washed / Wet,Costa Rica,green,Gourmet
+0.113,0,2,0.0,1000.0,Outros,Pulped natural / honey,Brazil,pale yellow,Tradicional
 0.1159999999999999,0,3,0.0,1350.0,Catimor,Natural / Dry,Thailand,yellowish,Superior
-0.11,0,3,3.0,1600.0,"Castillo,Caturra,Bourbon",Washed / Wet,Colombia,greenish,Tradicional
-0.114,0,2,2.0,1550.0,"Caturra,Colombia,Castillo",Washed / Wet,Colombia,Greenish,Tradicional
-0.1159999999999999,0,0,2.0,1450.0,Java,Washed / Wet,Thailand,Green,Superior
-0.109,0,2,0.0,1390.0,"Red Bourbon,Caturra",Anaerobico 1000h,Colombia,brownish,Superior
-0.118,0,0,0.0,1900.0,Gesha,Washed / Wet,Costa Rica,Green,Gourmet
-0.113,0,2,0.0,1350.0,Castillo Paraguaycito,Unknown,Colombia,brownish,Gourmet
-0.1159999999999999,0,2,2.0,1975.0,Red Bourbon,"Honey,Mossto",Colombia,Yellow-Green,Gourmet
-0.118,0,3,0.0,1815.0,Castillo,Double Anaerobic Washed,Colombia,Green,Gourmet
-0.1119999999999999,0,2,0.0,1725.0,"SL28,SL34,Ruiru11",Washed / Wet,Kenya,Green,Tradicional
-0.113,0,2,2.0,2000.0,"Wolishalo,Kurume,Dega",Washed / Wet,Ethiopia,Green,Gourmet
-0.115,0,3,1.0,1350.0,Typica Gesha,Washed / Wet,Colombia,Greenish,Superior
-0.104,0,11,1.0,1700.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Greenish,Superior
-0.094,0,1,1.0,1700.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Greenish,Gourmet
-0.1159999999999999,0,2,3.0,1950.0,Gesha,Natural / Dry,Ethiopia,Yellow- Green,Gourmet
-0.11,0,4,5.0,2361.0,Ethiopian Heirlooms,Natural / Dry,Ethiopia,Yellow Green,Gourmet
-0.123,0,4,3.0,2250.0,Ethiopian Heirlooms,Natural / Dry,Ethiopia,Yellow Green,Gourmet
-0.099,0,3,2.0,1950.0,Ethiopian Heirlooms,Washed / Wet,Ethiopia,Green,Gourmet
+0.11,0,3,3.0,1600.0,Outros,Washed / Wet,Colombia,greenish,Tradicional
+0.114,0,2,2.0,1550.0,Outros,Washed / Wet,Colombia,greenish,Tradicional
+0.1159999999999999,0,0,2.0,1450.0,Outros,Washed / Wet,Thailand,green,Superior
+0.109,0,2,0.0,1390.0,Outros,Anaerobico 1000h,Colombia,brownish,Superior
+0.118,0,0,0.0,1900.0,Gesha,Washed / Wet,Costa Rica,green,Gourmet
+0.113,0,2,0.0,1350.0,Outros,Unknown,Colombia,brownish,Gourmet
+0.1159999999999999,0,2,2.0,1975.0,Outros,"Honey,Mossto",Colombia,yellow green,Gourmet
+0.118,0,3,0.0,1815.0,Outros,Double Anaerobic Washed,Colombia,green,Gourmet
+0.1119999999999999,0,2,0.0,1725.0,Outros,Washed / Wet,Kenya,green,Superior
+0.113,0,2,2.0,2000.0,Outros,Washed / Wet,Ethiopia,green,Gourmet
+0.115,0,3,1.0,1350.0,Outros,Washed / Wet,Colombia,greenish,Superior
+0.104,0,11,1.0,1700.0,Outros,Washed / Wet,Ethiopia,greenish,Superior
+0.094,0,1,1.0,1700.0,Outros,Washed / Wet,Ethiopia,greenish,Gourmet
+0.1159999999999999,0,2,3.0,1950.0,Gesha,Natural / Dry,Ethiopia,yellow green,Gourmet
+0.11,0,4,5.0,2361.0,Outros,Natural / Dry,Ethiopia,yellow green,Gourmet
+0.123,0,4,3.0,2250.0,Outros,Natural / Dry,Ethiopia,yellow green,Gourmet
+0.099,0,3,2.0,1950.0,Outros,Washed / Wet,Ethiopia,green,Gourmet
 0.118,0,7,0.0,1250.0,Catimor,Natural / Dry,Outros,brownish,Superior
