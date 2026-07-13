@@ -1,0 +1,16 @@
+{
+  "dataset": "Tabela A",
+  "model_type": "KNN",
+  "accuracy": 0.4371,
+  "features": [
+    "Moisture",
+    "Category_One_Defects",
+    "Category_Two_Defects",
+    "Quakers",
+    "Altitude",
+    "Variety",
+    "Processing_Method",
+    "Country_of_Origin",
+    "Color"
+  ]
+}

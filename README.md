@@ -1,89 +1,111 @@
 # ML-SI
- Projeto - Aprendizagem de máquina
 
-# ☕ Sistema Inteligente de Classificação — Qualidade do Café
+# ☕ Sistema Inteligente de Classificação de Café
 
-Projeto de classificação da qualidade de cafés (Arábica) utilizando **KNN** e **Árvore de Decisão**, com base em dados sensoriais do Coffee Quality Institute (CQI).
+Este projeto reúne um fluxo completo de análise, treinamento e uso de modelos de machine learning para classificar cafés em categorias como Tradicional, Superior e Gourmet.
 
-## 📁 Estrutura do Projeto
+A aplicação principal está em [app.py](app.py) e usa modelos treinados com base em dois conjuntos de dados:
 
-Apenas para exemplificação, não precisa seguir a risca
+- Tabela A: sem notas sensoriais
+- Tabela B: com notas sensoriais
 
-```
+## 📁 Estrutura do projeto
+
+```text
+ML-SI/
+├── app.py                  # Interface em Streamlit para classificação
+├── requirements.txt       # Dependências do projeto
+├── README.md               # Documentação geral
 ├── data/
-│   └── df_arabica_clean                # CSV original (df_arabica_clean.csv)
-├── notebooks/               # Análise exploratória e experimentação
-├── preprocessing/           # Scripts de limpeza e transformação dos dados
-├── models/                  # Treinamento e modelos salvos (.pkl)
-├── evaluation/               # Métricas, matrizes de confusão, gráficos
-├── requirements.txt
-└── README.md
+│   ├── old_data/           # Dados antigos e versões anteriores
+│   ├── processed/          # Arquivos CSV prontos para treino e uso
+│   └── raw/                # Dados brutos originais
+├── models/                 # Modelos treinados em joblib e metadados em JSON
+└── notebooks/              # Notebooks de EDA, experimentação e treinamento
 ```
+
+## 🧠 O que o projeto faz
+
+- Explora os dados em notebooks para entender as features e a distribuição das classes.
+- Treina modelos de classificação com diferentes abordagens.
+- Disponibiliza uma interface interativa para o usuário inserir características de um café e obter uma previsão.
 
 ## 🔧 Pré-requisitos
 
-- Python 3.10+ instalado
+- Python 3.10 ou superior
+- pip
+- Ambiente virtual recomendado
 
-## 🚀 Setup do Ambiente
+## 🚀 Como configurar o ambiente
 
-### 1. Clonar o repositório
-```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+No terminal, na raiz do projeto:
+
+### 1. Criar o ambiente virtual
+
+Windows:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\activate
 ```
 
-### 2. Criar o ambiente virtual
+Linux/Mac:
 
-**Windows:**
 ```bash
-python -m venv venv
-venv\Scripts\activate
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
-**Linux/Mac:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
+### 2. Instalar as dependências
 
-> ✅ Você saberá que o ambiente está ativo quando `(venv)` aparecer no início da linha do terminal.
-
-### 3. Instalar as dependências
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Adicionar o dataset
+## ▶️ Como rodar a interface
 
-Houve mudança no dataset pois o antigo havia apenas 206 linhas, apesar de estar melhor estruturado. Ele pode ser encontrado no [Kagle](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi), sendo a tabela `df_arabica_clean.csv` que se encontra no arquivo ```data/older_data```.
-
-Baixe o `arabica_coffee_full_table.csv` (fonte: [Coffee Quality Data CQI - Kaggle](https://www.kaggle.com/datasets/erwinhmtang/coffee-quality-institute-reviews-may2023?select=arabica_coffee_full_table.csv)) e coloque em:
-```
-data/raw/arabica_coffee_full_table.csv
-```
-
-## ▶️ Executando o projeto
+A interface é executada com Streamlit:
 
 ```bash
-jupyter notebook
-```
-Ou, se estiver usando scripts `.py`:
-```bash
-python preprocessing/preprocess.py
-python models/train.py
-python evaluation/evaluate.py
+streamlit run app.py
 ```
 
-## 📦 Desativar o ambiente virtual (quando terminar)
-```bash
-deactivate
+Se quiser usar o interpretador do ambiente virtual explicitamente:
+
+```powershell
+.\.venv\Scripts\python.exe -m streamlit run app.py
 ```
 
-## 🧠 Algoritmos utilizados
+Depois disso, abra o endereço local mostrado no terminal, normalmente:
 
-- **KNN (K-Nearest Neighbors)** — testado com K = 3, 5, 7 e distâncias Euclidiana/Manhattan
-- **Árvore de Decisão** — avaliação de `max_depth` para controle de overfitting
+```text
+http://localhost:8501
+```
 
-## 📊 Métricas avaliadas
+## 🖱️ Como usar a interface
 
-Acurácia, Precisão, Recall, F1-Score e Matriz de Confusão para cada modelo.
+1. Escolha o tipo de entrada:
+   - Sem notas sensoriais
+   - Com notas sensoriais
+2. Selecione o modelo:
+   - KNN
+   - Random Forest
+3. Preencha os campos com as características do café.
+4. Clique em “Classificar café” para ver a previsão e as probabilidades por classe.
+
+## 📦 Modelos e dados
+
+Os modelos são salvos automaticamente na pasta [models](models) quando a interface é usada pela primeira vez. Se os arquivos ainda não existirem, a aplicação gera os modelos e os armazena para uso futuro.
+
+## 📓 Notebooks
+
+Os notebooks em [notebooks](notebooks) representam as etapas do projeto:
+
+- EDA inicial e exploração dos dados
+- Preparação dos datasets processados
+- Treinamento de modelos com KNN
+- Treinamento de modelos com árvores e random forest
+
+## 🧪 Observação
+
+A aplicação usa as mesmas estruturas de features que foram empregadas durante o treinamento, por isso a escolha entre as duas tabelas influencia diretamente quais campos aparecem na tela.
