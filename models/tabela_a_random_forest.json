@@ -1,0 +1,16 @@
+{
+  "dataset": "Tabela A",
+  "model_type": "Random Forest",
+  "accuracy": 0.4967,
+  "features": [
+    "Moisture",
+    "Category_One_Defects",
+    "Category_Two_Defects",
+    "Quakers",
+    "Altitude",
+    "Variety",
+    "Processing_Method",
+    "Country_of_Origin",
+    "Color"
+  ]
+}
